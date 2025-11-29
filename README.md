@@ -1,9 +1,4 @@
-# 1️⃣ เข้าโฟลเดอร์โปรเจค
-cd ~/Documents/Thai-food-search  # <-- แก้ path ให้ตรงกับโฟลเดอร์ของคุณ
 
-# 2️⃣ สร้าง README.md
-cat > README.md <<EOL
-# 🍜 Thai Food Search
 
 A simple web application to search Thai food recipes with ingredients, cooking steps, difficulty, and time.  
 
@@ -18,24 +13,6 @@ Built with **Next.js (React)**, **Express.js**, and **Elasticsearch**.
 - npm or yarn
 
 ---
-
-## 📂 Project Structure
-
-\`\`\`
-thai-food-search/
-│
-├─ frontend/         # Next.js React frontend
-│  └─ page.tsx
-├─ backend/          # Express.js server
-│  └─ server.js
-├─ scripts/          # Elasticsearch import script
-│  └─ import_data.js
-├─ thai_foods.json   # Recipe data
-└─ README.md
-\`\`\`
-
----
-
 ## 🚀 Setup & Run
 
 ### 1️⃣ Start Elasticsearch
