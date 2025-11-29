@@ -1,0 +1,2159 @@
+[
+  {
+    "title": "Koi",
+    "ingredients": "Raw Beef + Lime Juice + Fish Sauce + Ground Roasted Rice + Chili + Shallot + Mint + Coriander",
+    "steps": "1. Finely slice or mince raw beef and place in a bowl. \n2. Add  lime juice, fish sauce, chili, and roasted rice powder; mix well.\n3. Add shallots, mint, and coriander; toss and serve immediately.",
+    "timetaken": "15 minutes ",
+    "difficulty": "Easy",
+    "description": "A traditional Northeastern Thai dish made with finely minced raw or lightly cooked meat mixed with herbs, chili, and lime juice. Its spicy, sour, and aromatic, offering a bold, rustic flavor that reflects true Isaan-style cooking. Usually served with sticky rice and fresh vegetables, its a dish loved for its strong, refreshing taste.",
+    "picture": "https://cms.dmpcdn.com/food/2020/09/02/f0e77290-ed09-11ea-9c8c-5fe0b989e003_original.jpg"
+ 
+  },
+  {
+    "title": "Kuai Chap",
+    "ingredients": "Rolled Rice Noodles + Crispy Pork + Boiled Egg + Garlic + Pepper + Soy Sauce + Pork Broth + Tofu",
+    "steps": "1.  Boil pork bones, garlic, and pepper to make the broth.\n2. Add soy sauce and season to taste.\n3. Add rolled rice noodles, tofu, crispy pork, and boiled egg; serve hot.",
+    "timetaken": "45 minutes ",
+    "difficulty": "Medium",
+    "description": "A comforting Thai-Chinese noodle soup known for its peppery broth and rolled rice noodles. The soup is rich with flavors from garlic, soy sauce, and white pepper, often served with crispy pork belly, tofu, and boiled eggs. Warm, aromatic, and slightly spicy, its a beloved street food perfect for any time of day.",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kuaichap.JPG/1200px-Kuaichap.JPG"
+
+  },
+  {
+    "title": "Kuai Tiao",
+    "ingredients": "Rice Noodles + Pork + Meatballs + Garlic + White Pepper + Fish Sauce + Bean Sprouts + Spring Onion + Broth",
+    "steps": "1. Simmer pork bones with garlic and pepper to make clear broth.\n2. Blanch noodles, meat, and meatballs until cooked.\n3. Put noodles in a bowl, add meat and meatballs, pour in hot broth, top with bean sprouts and spring onion, then season to taste.",
+    "timetaken": "15 minutes ",
+    "difficulty": "Easy",
+    "description": "A light and flavorful noodle soup with tender meat, meatballs, and fresh herbs in clear broth.",
+    "picture": "https://img.wongnai.com/p/1920x0/2023/08/17/ab00ba5bc8fe4927ae79602f6a7b3205.jpg"
+
+  },
+  {
+    "title": "Kuai Tiao Tom Yum",
+    "ingredients": "Rice Noodles + Pork + Meatballs + Lime Juice + Chili Flakes + Crushed Peanuts + Fish Sauce + Garlic + Bean Sprouts + Broth",
+    "steps": "1.Boil bones, garlic, and pepper to make flavorful broth.\n2. Blanch noodles, meat, and meatballs until cooked.\n3. In a bowl, add noodles, chili flakes, lime juice, fish sauce, and peanuts\n4. Pour the food in a bowl in hot broth and mix well before serving.",
+    "timetaken": "25 minutes ",
+    "difficulty": "Medium ",
+    "description": "A vibrant and flavorful Thai noodle soup known for its perfect balance of spicy, sour, salty, and slightly sweet tastes. The clear broth is enhanced with lime juice, chili flakes, crushed peanuts, and garlic, creating an exciting explosion of flavor. Topped with meatballs, minced pork, or shrimp, this dish is a staple of Thai street food culture.",
+    "picture": "https://thumbs.dreamstime.com/b/closeup-spicy-tom-yam-pork-noodles-soup-pork-balls-chilly-pasted-lime-juice-closeup-spicy-tom-yam-pork-noodles-soup-114675545.jpg"
+   
+  },
+  {
+    "title": "Kuai Tiao Kua Kai",
+    "ingredients": "Flat Rice Noodles + Chicken + Egg + Garlic + Soy Sauce + Oyster Sauce + Pepper + Green Onion + Lettuce",
+    "steps": "1. Heat oil in a pan, fry garlic until fragrant, add chicken and stir until cooked.\n2. Add noodles, season with soy sauce, oyster sauce, and pepper.\n3. Push noodles aside, add egg, scramble lightly, mix together, and serve on lettuce with green onion.",
+    "timetaken": "25 minutes ",
+    "difficulty": "Medium",
+    "description": "A smoky and aromatic Thai stir-fried noodle dish made with flat rice noodles, chicken, and egg. The noodles are lightly crispy on the outside yet soft inside, coated in savory soy sauce and infused with wok aroma. Often served on lettuce and topped with green onions, its simple street food with irresistible flavor.",
+    "picture": "https://www.eatingthaifood.com/wp-content/uploads/2014/04/kuay-teow-kua-gai-%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B8%84%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%AE%E0%B9%89%E0%B8%87.jpg"
+   
+  },
+  {
+    "title": "Kuai Tiao Pak Mo",
+    "ingredients": "Rice Flour + Tapioca Flour + Minced Pork + Garlic + Soy Sauce + White Pepper + Fried Garlic + Coriander + Broth",
+    "steps": "1. Mix rice and tapioca flour with water to make thin batter.\n2. Steam batter on cloth, add pork filling, fold into dumpling shape.\n3. Place dumplings in a bowl, pour hot broth, top with fried garlic and coriander before serving.",
+    "timetaken": "40 minutes ",
+    "difficulty": "Hard",
+    "description": "A delicate Thai noodle dish featuring thin steamed rice dumplings filled with seasoned minced pork and vegetables, served in a light broth. The dumplings are soft, silky, and slightly chewy, floating in a warm, aromatic soup. Its a comforting dish that combines the elegance of handmade dumplings with the soothing taste of Thai-style broth.",
+    "picture": "https://static.thairath.co.th/media/dFQROr7oWzulq5FZUIUCQ4eBJyamiYBTCl4L2Sq034y2dhzn4X4ze8t36sA3nZA2AGI.jpg"
+   
+  },
+  {
+    "title": "Kuai Tiao Ped",
+    "ingredients": "Rice Noodles + Duck Meat + Garlic + Five-Spice Powder + Soy Sauce + Cinnamon + Star Anise + Bean Sprouts + Broth",
+    "steps": "1. Simmer duck with garlic, soy sauce, five-spice, cinnamon, and star anise until tender.\n2. Prepare clear broth using the duck stock.\n3. Blanch noodles and bean sprouts, place in bowl, add duck, and pour hot broth over before serving.",
+    "timetaken": "60 minutes ",
+    "difficulty": "Medium ",
+    "description": "A rich and aromatic Thai-Chinese noodle soup made with tender braised duck simmered in a flavorful herbal broth. The soup is infused with spices like cinnamon, star anise, and garlic, giving it a deep, comforting aroma. Served with rice noodles, vegetables, and a side of chili-vinegar, its a warm and hearty meal perfect for duck lovers.",
+    "picture": "https://bonmarche.co.th/wp-content/uploads/2021/01/MG_1162.jpg"
+   
+  },
+  {
+    "title": "Kuai Tiao Ruea",
+    "ingredients": "Rice Noodles + Beef or Pork + Meatballs + Garlic + Chili + Soy Sauce + Cinnamon + Star Anise + Pig Blood + Bean Sprouts + Basil",
+    "steps": "1. Simmer meat with garlic, cinnamon, star anise, and soy sauce to make dark, fragrant broth.\n2. Add a small amount of blood to thicken and enrich flavor.\n3. Blanch noodles and meatballs, put in bowl, pour broth, and top with bean sprouts and basil.",
+    "timetaken": "45 minutes ",
+    "difficulty": "Medium",
+    "description": "A deeply flavorful Thai noodle soup once sold from boats along canals. Its rich, aromatic broth is infused with herbs, spices, and a touch of pork or beef blood for depth and color. The dish combines tender meat, meatballs, and noodles, balanced with spicy, salty, and slightly sweet notes.",
+    "picture": "https://www.tasteatlas.com/images/dishes/c498c608efc243a3ba8aa68e109aea01.jpg"
+   
+  },
+  {
+    "title": "Kung Chae Nam Pla",
+    "ingredients": "Fresh Shrimp + Fish Sauce + Lime Juice + Garlic + Chili + Sugar + Mint + Cabbage or Bitter Gourd",
+    "steps": "1. Clean and devein shrimp, then soak briefly in fish sauce and lime juice.\n2. Mix garlic, chili, sugar, and lime juice to make spicy seafood sauce.\n3. Arrange shrimp on a plate with cabbage or bitter gourd slices, drizzle with sauce, and garnish with mint.",
+    "timetaken": "15 minutes ",
+    "difficulty": "Easy",
+    "description": "A bold and zesty Thai appetizer featuring fresh raw shrimp marinated in fish sauce, lime juice, and chili. The shrimp are served chilled with garlic, spicy seafood sauce, and fresh herbs for an explosion of flavors. It tastes salty, sour, spicy, and refreshing all at once. Its a true test of Thai-style spice lovers!",
+    "picture": "https://onemoredestination.com/wp-content/uploads/2017/07/goong-shae-nam-pla.jpg"
+   
+  },
+  {
+    "title": "Suki hmoo",
+    "ingredients": "Sliced Pork + Glass Noodles + Chinese Cabbage + Morning Glory + Egg + Garlic + Sukiyaki Sauce + Broth",
+    "steps": "1. Soak glass noodles until soft, then prepare vegetables and pork slices.\n2. Boil broth, add pork, vegetables, and noodles, then crack in an egg.\n3. Serve hot with suki sauce or mix directly into the soup for extra flavor.",
+    "timetaken": "15 minutes ",
+    "difficulty": "Easy",
+    "description": "A comforting Thai-style hotpot noodle soup packed with sliced pork, glass noodles, vegetables, and a flavorful suki sauce. The soup is light yet rich, combining savory broth with the tangy, spicy, and garlicky suki dipping sauce. Its a popular dish for sharing warm, hearty, and perfect for any meal.",
+    "picture": "https://img.wongnai.com/p/1920x0/2024/01/18/3e57b33e2e584921a9298105c61986cd.jpg"
+   
+  },
+  {
+    "title": "Kao Lao",
+    "ingredients": "Pork + Meatballs + Garlic + White Pepper + Fish Sauce + Bean Sprouts + Chinese Kale + Coriander + Broth",
+    "steps": "1. Simmer pork bones with garlic and pepper to make a clear broth.\n2. Add meat, meatballs, and vegetables; cook until tender.\n3. Ladle into a bowl, top with coriander, and serve hot with rice if desired.",
+    "timetaken": "20 minutes ",
+    "difficulty": "Easy",
+    "description": "A hearty Thai soup served without noodles, featuring tender slices of meat, meatballs, and fresh vegetables in a light, fragrant broth. The clear soup is seasoned with garlic, pepper, and fish sauce, offering a clean yet deeply savory flavor. Its a simple, comforting dish often enjoyed with steamed rice on the side.",
+    "picture": "https://img.wongnai.com/p/1920x0/2024/09/26/2b0f6718e62f4a87b2eea3b7d14a9602.jpg"
+   
+  },
+  {
+    "title": "Kiem Ee",
+    "ingredients": "Kiam Ee Noodles + Minced Pork + Garlic + Fish Sauce + White Pepper + Fried Garlic Oil + Coriander + Broth",
+    "steps": "1. Boil pork bones with garlic and pepper to create a clear broth.\n2. Blanch Kiam Ee noodles and minced pork until cooked.\n3. Place noodles in a bowl, pour hot broth, drizzle with garlic oil, and garnish with coriander.",
+    "timetaken": "20 minutes ",
+    "difficulty": "Easy",
+    "description": "A light yet flavorful Thai-Chinese noodle soup made with short, chewy rice noodles called Kiam Ee. The broth is savory and aromatic, complemented by minced pork, garlic oil, and fresh herbs. Its a comforting dish with a delicate balance of salty and garlicky flavors, perfect for any time of day.",
+    "picture": "https://img.wongnai.com/p/1920x0/2025/05/08/110f0af9a0ef48f88a22699c58b2eed6.jpg"
+   
+  },
+  {
+    "title": "Kao Phat Pu",
+    "ingredients": "Cooked Rice + Crab Meat + Egg + Garlic + Soy Sauce + Fish Sauce + Green Onion + White Pepper + Lime + Cucumber",
+    "steps": "1. Heat oil in a wok, add garlic, and stir-fry until fragrant.\n2. Add egg, scramble lightly, then mix in rice and crab meat.\n3. Season with soy sauce, fish sauce, and pepper; stir-fry well, then garnish with green onion, lime, and cucumber.",
+    "timetaken": "25 minutes ",
+    "difficulty": "Easy",
+    "description": "A fragrant Thai-style fried rice packed with tender crab meat, eggs, and a touch of soy sauce for rich flavor. The dish is simple yet luxurious, highlighting the natural sweetness of crab with a hint of smokiness from the wok. Often served with cucumber slices, lime, and chili fish sauce for a perfect balance of taste.",
+    "picture": "https://i.ytimg.com/vi/rNimsZkQvTw/sddefault.jpg"
+   
+  },
+  {
+    "title": "khao pad tom yam kung",
+    "ingredients": "Cooked Rice + Shrimp + Tom Yum Paste + Lemongrass + Kaffir Lime Leaf + Chili + Garlic + Fish Sauce + Lime Juice + Egg + Coriander",
+    "steps": "1. Heat oil, garlic and tom yum paste until fragrant.\n2. Add shrimp and cook until orange, then mix in rice and season with fish sauce and lime juice.\n3. Add lemongrass and kaffir lime leaves, stir-fry well, and garnish with coriander before serving.",
+    "timetaken": "30 minutes ",
+    "difficulty": "Medium ",
+    "description": "A spicy and aromatic fried rice inspired by Thailands famous Tom Yum Goong soup. The dish bursts with bold flavors of lemongrass, lime, chili, and shrimp, blending the heat and tang of tom yum into each grain of rice. Its vibrant, zesty, and full of the classic Thai balanc ex.  spicy, sour, salty, and a little creamy if made with chili paste.",
+    "picture": "https://f.ptcdn.info/240/025/000/1415176866-7-o.jpg"
+   
+  },
+  {
+    "title": "Kai Tai Nam",
+    "ingredients": "Chicken + Dried Chili + Lemongrass + Shallot + Garlic + Galangal + Turmeric + Salt + Fish Sauce + Kaffir Lime Leaf",
+    "steps": "1. Pound chili, garlic, shallot, lemongrass, galangal, and turmeric into a paste.\n2. Mix chicken with the paste, fish sauce, and salt; marinate for 15-20 minutes.\n3. Cook the chicken in a pot without adding water, cover tightly, and simmer until juicy and aromatic.",
+    "timetaken": "45 minutes ",
+    "difficulty": "Medium ",
+    "description": "A bold Southern Thai dish where marinated chicken is slowly cooked in its own juices under gentle heat. Hence the name Tai Nam\" or under water. Its packed with rich flavors from chili paste, lemongrass, and turmeric, creating a spicy, fragrant, and earthy taste. The meat turns tender and flavorful, perfect with steamed rice.",
+    "picture": "https://www.maggi.co.th/sites/default/files/srh_recipes/427646fed687fe475e8b04926d75ba11.png"
+   
+  },
+  {
+    "title": "Kai Yang",
+    "ingredients": "Chicken + Garlic + Coriander Root + White Pepper + Fish Sauce + Soy Sauce + Sugar + Oil + Lime",
+    "steps": "1. Pound garlic, coriander root, and pepper, then mix with fish sauce, soy sauce, sugar, and oil to make marinade.\n2. Coat chicken evenly and marinate for at least 30 minutes.\n3. Grill over medium heat until golden brown and cooked through; serve with sticky rice and dipping sauce.",
+    "timetaken": "1 hour",
+    "difficulty": "Easy",
+    "description": "A classic Thai street food featuring marinated chicken grilled to perfection over charcoal. The meat is infused with flavors of garlic, coriander root, pepper, and fish sauce, giving it a smoky aroma and savory-sweet balance. Crispy on the outside and juicy inside, its best enjoyed with sticky rice and spicy nam jim jaew sauce.",
+    "picture": "https://i.pinimg.com/originals/b3/cf/0f/b3cf0f7fbab466dabf601f0eb12e4a1a.jpg"
+   
+  },
+  {
+    "title": "Kai Ob Fang",
+    "ingredients": "Whole Chicken + Garlic + Coriander Root + Pepper + Fish Sauce + Soy Sauce + Palm Sugar + Lemongrass + Straw (for roasting)",
+    "steps": "1. Pound garlic, coriander root, and pepper; mix with fish sauce, soy sauce, and sugar to make marinade.\n2. Rub the mixture all over the chicken and stuff with lemongrass; let it marinate for 1 hour.\n3. Wrap the chicken in straw, set it on fire carefully, and roast until fully cooked and fragrant.",
+    "timetaken": "1 hour 30 minutes ",
+    "difficulty": "Hard",
+    "description": "A traditional Thai countryside dish where a whole marinated chicken is wrapped and roasted over burning straw. The technique gives the meat a unique smoky aroma and golden, crispy skin while keeping it tender and juicy inside. Its rustic flavor and natural scent of straw make it truly special. It is simple yet full of character.",
+    "picture": "https://img.salehere.co.th/p/1200x0/2021/05/25/tkfa0hbnge64.jpg"
+   
+  },
+  {
+    "title": "khanom chin nam ya",
+    "ingredients": "Rice Noodles + Fish Fillet + Coconut Milk + Lemongrass + Galangal + Turmeric + Chili Paste + Garlic + Shallot + Kaffir Lime Leaf + Boiled Egg + Vegetables",
+    "steps": "1. Boil fish until cooked, then pound with curry paste until smooth.\n2. Heat coconut milk, add curry paste mixture, and simmer with herbs until thick and fragrant.\n3. Serve curry over rice noodles with boiled egg and fresh vegetables on the side.",
+    "timetaken": "45 minutes ",
+    "difficulty": "Medium ",
+    "description": "A beloved Thai dish featuring soft fermented rice noodles topped with rich, spicy fish-based curry sauce. The curry is simmered with coconut milk, lemongrass, galangal, and turmeric, creating a creamy and aromatic flavor. Often served with fresh vegetables and boiled egg, its a perfect balance of spicy, savory, and refreshing tastes.",
+    "picture": "https://thailandfoundation.or.th/wp-content/uploads/2025/03/15.png"
+   
+  },
+  {
+    "title": "Khanom Chin Kaeng Kai",
+    "ingredients": "Rice Noodles + Chicken + Coconut Milk + Red Curry Paste + Fish Sauce + Palm Sugar + Lemongrass + Kaffir Lime Leaf + Basil + Vegetables",
+    "steps": "1. Heat coconut milk and stir in red curry paste until fragrant.\n2. Add chicken, season with fish sauce and palm sugar, then simmer until tender.\n3. Pour curry over rice noodles, garnish with basil and vegetables, and serve hot.",
+    "timetaken": "45 minutes ",
+    "difficulty": "Medium",
+    "description": "A comforting Thai dish combining tender chicken in creamy coconut curry served over soft rice noodles. The curry is rich, mildly spicy, and aromatic with herbs and spices like lemongrass and kaffir lime leaves. Each bite offers a perfect harmony of creamy, savory, and slightly sweet flavors.",
+    "picture": "https://i.pinimg.com/736x/be/d9/6d/bed96d46902f823db573a26191e17915.jpg"
+   
+  },
+  {
+    "title": "Khao pad tom yam hmoo gorb",
+    "ingredients": "Cooked Rice + Crispy Pork Belly + Tom Yum Paste + Lemongrass + Kaffir Lime Leaf + Chili + Garlic + Fish Sauce + Lime Juice + Egg + Coriander",
+    "steps": "1. Heat oil, garlic and tom yum paste until aromatic.\n2. Add crispy pork and stir-fry, then mix in rice and season with fish sauce and lime juice.\n3. Add lemongrass and kaffir lime leaf, stir evenly, and garnish with coriander before serving.",
+    "timetaken": "30 minutes ",
+    "difficulty": "Medium",
+    "description": "A flavorful twist on Thai fried rice inspired by the famous Tom Yum soup, featuring crispy pork belly as the star. Each grain of rice is coated with spicy and tangy tom yum paste, balanced with lime, lemongrass, and chili for a punchy aroma. The crispy pork adds texture and richness, making every bite satisfying and full of Thai-style heat.",
+    "picture": "https://img.wongnai.com/p/1920x0/2019/11/17/3ff44db7c64c42e1bcf1f945f0ae3b60.jpg"
+   
+  },
+  {
+    "title": "Kao Kha Mu",
+    "ingredients": "Pork Leg + Garlic + Coriander Root + Cinnamon + Star Anise + Soy Sauce + Sugar + Boiled Egg + Pickled Mustard Greens + Rice + Chili + Vinegar",
+    "steps": "1. Simmer pork leg with garlic, coriander root, cinnamon, and star anise in soy-sauce-based broth until tender.\n2. Add boiled eggs during the last 10 minutes for extra flavor.\n3. Serve pork leg slices over rice with boiled egg, pickled mustard greens, and chili-vinegar sauce.",
+    "timetaken": "2 hours ",
+    "difficulty": "Medium",
+    "description": "A beloved Thai street food dish featuring tender, slow-braised pork leg served over jasmine rice. The pork is simmered for hours in a rich, aromatic broth infused with soy sauce, garlic, cinnamon, and star anise, giving it a deep savory flavor and melt-in-your-mouth texture. Served with boiled egg, pickled mustard greens, and spicy garlic chili sauce, its comfort food at its finest.",
+    "picture": "https://www.shutterstock.com/image-photo/stewed-pork-leg-rice-vegetable-260nw-1223612236.jpg"
+   
+  },
+  {
+    "title": "Kao Khluk Kapi",
+    "ingredients": "Cooked Rice + Shrimp Paste + Sweet Pork + Egg + Shallot + Green Mango + Chili + Lime + Long Beans + Garlic + Oil",
+    "steps": "1. Stir-fry shrimp paste with rice until fragrant and evenly coated.\n2. Prepare toppings  fry sweet pork, omelet strips, and slice vegetables and mango.\n3. Serve the shrimp paste rice with all toppings arranged beautifully on the side, ready to mix before eating.",
+    "timetaken": "30 minutes ",
+    "difficulty": "Medium ",
+    "description": "A flavorful and aromatic Thai fried rice dish infused with shrimp paste and served with a colorful variety of toppings. The savory rice pairs perfectly with sweet pork, omelet strips, green mango, shallots, chili, and lime. Its creating a perfect mix of salty, sweet, sour, and spicy in every bite. Its a fun and balanced meal that highlights true Thai home-style cooking.",
+    "picture": "https://www.tasteatlas.com/images/dishes/c33dbd62fd834fd4b0d7423f7b0507d0.jpg"
+   
+  },
+  {
+    "title": "Tam Sua",
+    "ingredients": "Green Papaya + Rice Noodles + Fermented Fish Sauce (Pla Ra) + Lime Juice + Chili + Garlic + Tomato + Long Beans + Fish Sauce + Palm Sugar",
+    "steps": "1. Pound chili and garlic together, then add palm sugar, fish sauce, fermented fish sauce, and lime juice.\n2. Add shredded papaya, tomato, and long beans; lightly pound to mix flavors.\n3. Add cooked rice noodles, toss well, and serve fresh with vegetables on the side.",
+    "timetaken": "20 minutes ",
+    "difficulty": "Easy",
+    "description": "A Northeastern Thai-style papaya salad that combines the spiciness of som tam with the savory depth of fermented fish sauce and rice noodles. Its bold, tangy, and packed with texture ex. crunchy papaya, chewy noodles, and a punch of chili and lime. This dish perfectly captures the rustic, spicy, and addictive flavor of Isaan cuisine.",
+    "picture": "https://img.wongnai.com/p/1920x0/2020/08/27/8ca9143fd4874618a1f1789bc3b55b1f.jpg"
+   
+  },
+  {
+    "title": "Kao Chae",
+    "ingredients": "Steamed Rice + Jasmine Water + Ice + Sweet Pork + Stuffed Shallots + Shredded Sweet Beef + Fried Shrimp Paste Balls + Fresh Vegetables",
+    "steps": "1. Prepare jasmine-scented water by soaking jasmine flowers overnight and chilling it with ice.\n2. Cook and cool rice until grains are firm and separate, then soak gently in the scented water.\n3. Serve with a platter of traditional side dishes such as sweet pork, stuffed shallots, and fried shrimp paste balls.",
+    "timetaken": "1 hour 30 minutes ",
+    "difficulty": "Hard",
+    "description": "A royal Thai summer dish known for its cooling and refreshing qualities. Steamed rice is soaked in chilled, jasmine-scented water and served with an assortment of savory side dishes like sweet pork, stuffed shallots, and shredded sweetened beef. Elegant, fragrant, and beautifully balanced, Khao Chae is both a meal and a sensory experiencel, delicate, aromatic, and truly unique.",
+    "picture": "https://www.prachachat.net/wp-content/uploads/2024/04/rice-1.jpg"
+   
+  },
+  {
+    "title": "Kao Soi Kai",
+    "ingredients": "Egg Noodles + Chicken Drumsticks + Coconut Milk + Curry Paste + Turmeric + Fish Sauce + Palm Sugar + Pickled Mustard Greens + Shallots + Lime + Crispy Noodles",
+    "steps": "1. Heat a little oil in a pot, fry the curry paste with some coconut milk until fragrant.\n2. Add chicken and the rest of the coconut milk, then simmer until the chicken is tender and the broth is rich.\n3. Serve over boiled egg noodles, top with crispy noodles, and garnish with lime, shallots, and mustard greens.",
+    "timetaken": "45 minutes ",
+    "difficulty": "Medium ",
+    "description": "A signature Northern Thai curry noodle soup that blends rich coconut milk with aromatic curry spices. Tender chicken drumsticks are simmered in a creamy, mildly spicy broth, served over egg noodles, and topped with crispy noodles for contrast. The dish is completed with lime, pickled mustard greens, and shallots for a perfect harmony of creamy, spicy, and tangy flavors.",
+    "picture": "https://hot-thai-kitchen.com/wp-content/uploads/2023/05/2-2-500x375.jpg"
+   
+  },
+  {
+    "title": "Dry Rice Porridge",
+    "ingredients": "Cooked Rice + Minced Pork + Garlic + Soy Sauce + Fish Sauce + White Pepper + Fried Garlic Oil + Coriander + Green Onion",
+    "steps": "1. Boil minced pork or chicken until cooked, then drain and set aside.\n2. Mix cooked rice with meat, soy sauce, fish sauce, and a drizzle of garlic oil 3.\tTop with fried garlic, coriander, and green onion before serving warm.",
+    "timetaken": "25 minutes ",
+    "difficulty": "Easy",
+    "description": "A comforting Thai breakfast dish that takes all the goodness of khao tom (rice soup) but serves it dry, without broth. The warm rice is mixed with tender pork, garlic oil, soy sauce, and fresh herbs, giving it a light yet flavorful taste. Its simple, aromatic, and satisfying. It's perfect for mornings or a gentle meal any time of day.",
+    "picture": "https://www.pholfoodmafia.com/wp-content/uploads/2022/09/6Dried-Rice-Porridge-with-Pork-Ribs-590x418.jpg"
+   
+  },
+  {
+    "title": "Kao Tom",
+    "ingredients": "Cooked Rice + Pork + Garlic + Fish Sauce + White Pepper + Fried Garlic + Coriander + Green Onion + Broth",
+    "steps": "1. Boil broth with garlic and pepper, then add pork until cooked.\n2. Add cooked rice and simmer gently until soft and flavorful.\n3. Season with fish sauce, then top with fried garlic, coriander, and green onion before serving hot.",
+    "timetaken": "25 minutes ",
+    "difficulty": "Easy",
+    "description": "A classic Thai comfort dish made with soft-boiled rice in a light, savory broth. Its warm, mild, and soothing. It often enjoyed for breakfast or as a gentle meal when youre feeling under the weather. The simple flavors of garlic, pepper, and fish sauce blend perfectly with tender pork for a wholesome and cozy bowl.",
+    "picture": "https://i.pinimg.com/736x/1f/bd/a6/1fbda6c849685034161d07fcd9c284d0.jpg"
+   
+  },
+  {
+    "title": "Kao Phat hmoo",
+    "ingredients": "Cooked Rice + Pork + Egg + Garlic + Soy Sauce + Fish Sauce + Sugar + White Pepper + Green Onion + Cucumber + Lime",
+    "steps": "1. Heat oil in a wok, fry garlic until fragrant, then add pork and stir until cooked. \n2. Add egg and scramble lightly, then mix in rice and season with soy sauce, fish sauce, and sugar.\n3. Stir-fry well, sprinkle with pepper, and serve with cucumber and lime.",
+    "timetaken": "20 minutes ",
+    "difficulty": "Easy",
+    "description": "A classic and comforting Thai dish made with fluffy jasmine rice stir-fried with tender pork, egg, and a touch of soy sauce. Its simple, aromatic, and perfectly balanced. It slightly savory with a hint of sweetness from caramelized rice. Often served with cucumber, lime, and chili fish sauce, its a go-to meal for any time of day.",
+    "picture": "https://s359.kapook.com/r/600/auto/pagebuilder/2810e9c2-ac36-4970-bc50-d2fa431e2c3c.jpg"
+   
+  },
+  {
+    "title": "Kao Phat Kung",
+    "ingredients": "Cooked Rice + Shrimp + Egg + Garlic + Soy Sauce + Fish Sauce + Sugar + White Pepper + Green Onion + Cucumber + Lime",
+    "steps": "1. Heat oil in a wok, fry garlic until fragrant, then add shrimp and stir-fry until just cooked.\n2. Add egg, scramble lightly, then mix in rice and season with soy sauce, fish sauce, and sugar.\n3. Stir well until fragrant, sprinkle with pepper, and serve with cucumber and lime wedges.",
+    "timetaken": "20 minutes ",
+    "difficulty": "Easy",
+    "description": "A flavorful Thai fried rice made with juicy shrimp, fragrant jasmine rice, and a hint of garlic and soy sauce. The dish is simple yet full of arom. Each grain of rice lightly coated with egg and shrimp essence. Served with cucumber, lime, and chili fish sauce, its a comforting favorite that tastes both homely and satisfying.",
+    "picture": "https://cicili.tv/wp-content/uploads/2025/08/Thai-Shrimp-Fried-Rice-Small-1.jpg"
+   
+  },
+  {
+    "title": "Kao Phat Sapparot",
+    "ingredients": "Cooked Rice + Pineapple + Shrimp + Egg + Garlic + Curry Powder + Soy Sauce + Fish Sauce + Sugar + Cashew Nuts + Raisins + Green Onion",
+    "steps": "1. Heat oil in a wok, fry garlic until fragrant, then add egg and stir until half-cooked.\n2. Add shrimp and stir-fry, then mix in rice, curry powder, soy sauce, and fish sauce.\n3. Add pineapple, cashew nuts, and raisins, stir well, and garnish with green onion before serving.",
+    "timetaken": "25 minutes ",
+    "difficulty": "Medium ",
+    "description": "A colorful and fragrant Thai fried rice that perfectly balances sweet, salty, and tangy flavors. Juicy pineapple chunks are stir-fried with rice, shrimp or chicken, cashew nuts, and curry powder, giving the dish a tropical aroma and golden color. Often served in a pineapple shell, its both delicious and eye-catching.",
+    "picture": "https://hot-thai-kitchen.com/wp-content/uploads/2014/02/Pineapple-fried-rice-sq-2.jpg"
+   
+  },
+  {
+    "title": "Kao Phat American",
+    "ingredients": "Cooked Rice + Ketchup + Butter + Garlic + Onion + Sausage + Ham + Fried Chicken + Egg + Raisins + Green Peas + Corn + Sugar + Soy Sauce",
+    "steps": "1. Heat butter in a pan, fry garlic and onion until fragrant, then add rice and ketchup.\n2. Season with soy sauce and sugar, then mix in raisins, peas, and corn.\n3. Serve with fried chicken, sausage, ham, and a sunny-side-up egg on top.",
+    "timetaken": "30 minutes ",
+    "difficulty": "Easy",
+    "description": "A Thai-style fried rice inspired by Western flavors, featuring tomato ketchup, raisins, and butter for a sweet and tangy twist. Its usually served with fried chicken, sausage, ham, and a fried egg, making it colorful, filling, and fun to eat. The combination of Thai cooking style and American-inspired ingredients gives it a nostalgic, comforting taste.",
+    "picture": "https://static.vecteezy.com/system/resources/previews/039/374/692/large_2x/american-style-breakfast-set-fried-rice-with-fried-chicken-sausage-and-vegetable-on-white-plate-photo.jpg"
+   
+  },
+  {
+    "title": "Kao Man Kai Tod",
+    "ingredients": "Chicken Thigh or Breast + Garlic + Soy Sauce + White Pepper + Flour + Cooked Jasmine Rice + Chicken Fat + Cucumber + Coriander + Sweet Chili Sauce + Soup Broth",
+    "steps": "1. Marinate chicken with garlic, soy sauce, and pepper, then coat with flour.\n2. Deep-fry until golden brown and crispy.\n3. Serve over fragrant rice cooked with garlic and chicken fat, with dipping sauce and soup on the side.",
+    "timetaken": "45 minutes ",
+    "difficulty": "Medium ",
+    "description": "A crispy and flavorful twist on the classic Thai chicken rice dish. The chicken is marinated, coated in seasoned flour, and deep-fried until golden and crunchy, then served over aromatic jasmine rice cooked in chicken fat and garlic. Paired with a tangy-sweet dipping sauce and clear soup on the side, its crunchy outside, tender inside, and incredibly satisfying.",
+    "picture": "https://i.ytimg.com/vi/XeSpGgFRiMg/sddefault.jpg"
+   
+  },
+  {
+    "title": "Kao Man Kai",
+    "ingredients": "Whole Chicken or Chicken Thigh + Jasmine Rice + Garlic + Ginger + Chicken Fat + Soybean Paste + Chili + Soy Sauce + Sugar + Cucumber + Coriander + Chicken Broth",
+    "steps": "1. Boil chicken gently until cooked and tender; keep the broth for rice and soup.\n2. Fry garlic and ginger in chicken fat, add rice, then cook with chicken broth until fragrant.\n3. Slice chicken and serve over rice with dipping sauce, cucumber, coriander, and a bowl of soup.",
+    "timetaken": "1 hour",
+    "difficulty": "Medium",
+    "description": "A beloved Thai comfort dish inspired by Hainanese cuisine, featuring tender poached chicken served over fragrant rice cooked in chicken fat and broth. The rice is rich yet light, paired perfectly with the savory-sweet-spicy dipping sauce made from soybean paste, ginger, and chili. Served with clear chicken soup and cucumber slices, its simple, soothing, and deeply satisfying.",
+    "picture": "https://img.wongnai.com/p/1920x0/2017/06/22/bbf899f7ab4341dea4aec6330c2afafd.jpg"
+   
+  },
+  {
+    "title": "Kao Man Somtam",
+    "ingredients": "Chicken + Garlic + Fish Sauce + Soy Sauce + Flour + Sticky Rice + Green Papaya + Chili + Lime Juice + Fish Sauce + Palm Sugar + Tomato + Long Beans + Peanuts",
+    "steps": "1. Marinate chicken with garlic, soy sauce, and fish sauce, then coat with flour and deep-fry until golden and crispy.\n2. Pound chili, garlic, lime juice, fish sauce, and palm sugar together, then add papaya, tomato, long beans, and peanuts to make som tam.\n3. Serve fried chicken with sticky rice and papaya salad on the side.",
+    "timetaken": "40 minutes ",
+    "difficulty": "Medium",
+    "description": "A vibrant and flavorful Thai combo dish pairing crispy fried chicken with sticky rice and spicy som tam (papaya salad). The rich, savory chicken contrasts beautifully with the fresh, tangy, and spicy salad, creating the perfect balance of textures and tastes.",
+    "picture": "https://img.kapook.com/u/2016/surauch/cook1/Kaowmansomtum1.jpg"
+   
+  },
+  {
+    "title": "Steamed fish with lemon",
+    "ingredients": "Whole Fish (Sea Bass or Snapper) + Lime Juice + Garlic + Chili + Fish Sauce + Sugar + Coriander + Lemongrass + Water",
+    "steps": "1. Steam the fish with lemongrass until fully cooked and tender.\n2. Mix lime juice, fish sauce, chili, garlic, and sugar to make the sauce.\n3. Pour the sauce over the fish, garnish with coriander, and serve hot with rice.",
+    "timetaken": "30 minutes ",
+    "difficulty": "Easy",
+    "description": "A refreshing and tangy Thai dish featuring tender steamed fish topped with a spicy lime and garlic sauce. The light, flaky fish absorbs the zesty flavors of lime juice, chili, and fish sauce, creating a perfect mix of sour, salty, and spicy. Its a healthy, aromatic, and mouthwatering favorite often served with steamed rice.",
+    "picture": "https://d1eha6vqc5cqta.cloudfront.net/2021/03/Thai-Steamed-Fish-Recipe-1.jpg"
+   
+  },
+  {
+    "title": "Kao Yam",
+    "ingredients": "Cooked Rice + Budu Sauce + Lemongrass + Kaffir Lime Leaf + Toasted Coconut + Dried Shrimp + Long Beans + Bean Sprouts + Mango or Pomelo + Chili + Lime",
+    "steps": "1. Mix budu sauce with lime juice, sugar, and chili to make the dressing.\n2. Arrange rice, herbs, vegetables, toasted coconut, and dried shrimp on a plate.\n3. Pour the dressing over and toss everything together before eating.",
+    "timetaken": "30 minutes ",
+    "difficulty": "Medium ",
+    "description": "A colorful and aromatic Southern Thai salad made with rice, fresh herbs, vegetables, and toasted coconut. The dish is brought together by a sweet-salty-sour budu (fermented fish) dressing that adds deep umami flavor. Each bite is refreshing and vibrant. It is a perfect harmony of fragrance, crunch, and tang that captures the essence of Southern Thai cuisine.",
+    "picture": "https://img.wongnai.com/p/400x0/2022/02/01/433619dd7786449e82d1c2a92daaa798.jpg"
+   
+  },
+  {
+    "title": "Kao Rad Na Kai",
+    "ingredients": "Chicken + Garlic + Soy Sauce + Oyster Sauce + Sugar + White Pepper + Water or Broth + Cornstarch + Rice + Green Onion",
+    "steps": "1. Stir-fry garlic until fragrant, then add chicken and cook until done.\n2. Season with soy sauce, oyster sauce, sugar, and pepper, then pour in water or broth.\n3. Add cornstarch slurry to thicken the sauce, pour over hot rice, and garnish with green onion.",
+    "timetaken": "25 minutes ",
+    "difficulty": "Easy",
+    "description": "A comforting Thai-Chinese dish featuring tender chicken in a rich, savory gravy poured over steamed rice. The sauce is thickened with soy sauce and starch, giving it a silky texture that coats the meat and rice perfectly. Mild yet flavorful, its a satisfying one-plate meal loved for its warmth and simplicity.",
+    "picture": "https://img.wongnai.com/p/1920x0/2018/10/02/37ad09783ae640a9ada1cd231a9a743c.jpg"
+   
+  },
+  {
+    "title": "Tum kao pod",
+    "ingredients": "Sweet Corn + Chili + Garlic + Lime Juice + Fish Sauce + Palm Sugar + Tomato + Long Beans + Dried Shrimp + Peanuts",
+    "steps": "1. Pound chili and garlic together, then mix with lime juice, fish sauce, and palm sugar.\n2. Add corn kernels, tomato, long beans, dried shrimp, and peanuts.\n3. Lightly pound and toss until well mixed, then serve fresh.",
+    "timetaken": "15 minutes ",
+    "difficulty": "Easy",
+    "description": "A bright and refreshing Thai salad made with sweet corn, chili, lime, and fish sauce. The sweetness of corn blends beautifully with the spicy, sour, and salty flavors of the dressing. Light, colorful, and bursting with flavor, its a perfect balance of heat and freshness in every bite.",
+    "picture": "https://s.isanook.com/wo/0/ud/37/185989/food.jpg"
+   
+  },
+  {
+    "title": "Steamed squid with lemon",
+    "ingredients": "Fresh Squid + Lime Juice + Garlic + Chili + Fish Sauce + Sugar + Coriander + Lemongrass + Water",
+    "steps": "1. Steam cleaned squid with lemongrass until just cooked and tender.\n2. Mix lime juice, fish sauce, garlic, chili, and sugar to make the sauce.\n3. Pour the sauce over steamed squid, garnish with coriander, and serve immediately.",
+    "timetaken": "25 minutes ",
+    "difficulty": "Easy",
+    "description": "A zesty Thai seafood dish featuring tender steamed squid drenched in a spicy lime and garlic sauce. The sourness of lime, heat from chili, and aroma of garlic combine to create a refreshing and flavorful taste. Light yet punchy, its a perfect dish for seafood lovers who enjoy bold Thai-style flavors.",
+    "picture": "https://i.pinimg.com/736x/a1/73/3f/a1733fcfc8c3bef4e954c6040fb3f99d.jpg"
+   
+  },
+  {
+    "title": "Kao Na Ped",
+    "ingredients": "Roasted Duck + Rice + Garlic + Soy Sauce + Oyster Sauce + Five-Spice Powder + Sugar + Cornstarch + Pickled Ginger + Chinese Kale",
+    "steps": "1. Slice roasted duck and set aside.\n2. In a pan, make the gravy by heating garlic, soy sauce, oyster sauce, sugar, and five-spice powder, then thicken with cornstarch.\n3. Pour the sauce over the duck on top of rice and serve with pickled ginger and blanched vegetables.",
+    "timetaken": "30 minutes ",
+    "difficulty": "Medium",
+    "description": "A rich and flavorful Thai-Chinese dish featuring slices of roasted duck served over steamed rice with sweet soy gravy. The duck is tender with slightly crispy skin, and the sauce adds a perfect balance of sweet, salty, and aromatic flavors. Usually served with pickled ginger and boiled vegetables, its a comforting and elegant one-plate meal.",
+    "picture": "https://64.media.tumblr.com/tumblr_kzm9fngvTu1qbthtxo1_1280.jpg"
+   
+  },
+  {
+    "title": "Kao Mok Kai",
+    "ingredients": "Chicken + Jasmine Rice + Turmeric Powder + Curry Powder + Garlic + Onion + Cumin + Cardamom + Cinnamon + Fish Sauce + Sugar + Green Sauce (Mint + Chili + Lime Juice + Sugar)",
+    "steps": "1. Marinate chicken with curry powder, turmeric, garlic, onion, and seasonings for 30 minutes.\n2. Fry the spices until fragrant, add rice and marinated chicken, then cook together with water or broth.\n3. Serve with fried shallots, cucumber, and green sauce on the side.",
+    "timetaken": "1 hour",
+    "difficulty": "Medium ",
+    "description": "A fragrant Thai-Muslim rice dish inspired by biryani, featuring spiced turmeric rice cooked together with tender marinated chicken. The aroma of cumin, cardamom, and fried shallots fills every bite, while the chicken stays juicy and full of flavor. Served with cucumber and a tangy green sauce, its both comforting and exotic.",
+    "picture": "https://tastythais.com/wp-content/uploads/2019/09/Khao-Mok-Gai-Dish-1.jpg"
+   
+  },
+  {
+    "title": "Kai Pham",
+    "ingredients": "Duckweed (Phum) + Eggs + Fish Sauce + White Pepper + Oil",
+    "steps": "1. Beat eggs in a bowl and mix in duckweed, fish sauce, and pepper.\n2. Heat oil in a pan, pour in the mixture, and fry until golden on both sides.\n3. Serve hot with steamed rice and chili sauce.",
+    "timetaken": "15 minutes ",
+    "difficulty": "Easy",
+    "description": "A unique and traditional Northern Thai dish made with phum (fresh duckweed), a local aquatic plant rich in nutrients. The duckweed is mixed with eggs and lightly seasoned before being fried into a soft, fluffy omelet. Simple, earthy, and naturally green, its a humble countryside dish thats both healthy and flavorful.",
+    "picture": "https://www.taokaecafe.com/asp-bin/images/1741933078_%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%A1.jpg"
+   
+  },
+  {
+    "title": "Jok",
+    "ingredients": "Cooked Rice or Broken Rice + Minced Pork + Garlic + Ginger + Soy Sauce + Fish Sauce + Egg + Green Onion + Coriander + White Pepper + Broth",
+    "steps": "1. Simmer rice in broth until it becomes thick and smooth.\n2. Add minced pork balls and cook until done.\n3. Crack in an egg, then top with ginger, green onion, coriander, and pepper before serving hot.",
+    "timetaken": "40 minutes ",
+    "difficulty": "Easy",
+    "description": "A warm and comforting Thai breakfast dish made from slow-cooked rice until soft and creamy. Typically served with minced pork, a poached egg, and fragrant toppings like ginger and green onion, its soothing, mild, and perfect for any morning. Loved for its simplicity and gentle flavor, Jok is a true comfort food in Thai cuisine.",
+    "picture": "https://i.pinimg.com/474x/0f/cb/7f/0fcb7f0899250673023bb9101a73d159.jpg"
+   
+  },
+  {
+    "title": "Soi Ju",
+    "ingredients": "Raw Beef + Animal Blood + Lime Juice + Fish Sauce + Chili Flakes + Ground Roasted Rice + Shallot + Mint + Coriander",
+    "steps": "1. Thinly slice raw beef and mix with blood, fish sauce, and lime juice.\n2. Add chili flakes, roasted rice powder, and shallots; stir gently to combine.\n3. Mix in mint and coriander, then serve immediately with sticky rice and fresh vegetables.",
+    "timetaken": "15 minutes ",
+    "difficulty": "Easy",
+    "description": "A bold and traditional Northeastern Thai dish made with raw beef mixed with fresh herbs, spices, and a touch of animal blood for rich flavor. Its deeply savory, spicy, and aromatic  often enjoyed by locals for its strong, earthy taste. Usually served fresh with sticky rice and local vegetables, its a dish for true Isaan food lovers.",
+    "picture": "https://www.innnews.co.th/wp-content/uploads/2023/06/%E0%B8%8B%E0%B8%AD%E0%B8%A2%E0%B8%88%E0%B8%B8%E0%B9%8A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%A1%E0%B8%B2.jpg"
+  },
+  {
+    "title": "Som Tum Par la",
+    "ingredients": "Green Papaya + Pla Ra (Fermented Fish Sauce) + Chili + Garlic + Lime Juice + Palm Sugar + Tomato + Long Beans + Fish Sauce",
+    "steps": "1. Pound chili and garlic together, then add palm sugar, fish sauce, pla ra, and lime juice.\n2. Add shredded papaya, tomato, and long beans.\n3. Lightly pound and toss everything until well mixed, then serve fresh with sticky rice and vegetables",
+    "timetaken": "15 minutes ",
+    "difficulty": "Easy",
+    "description": "A bold and spicy Northeastern Thai papaya salad made with pla ra (fermented fish sauce) for a deep umami aroma. The mix of shredded green papaya, chili, lime, and tomato creates a perfect balance of spicy, sour, and salty flavors. Its rustic, flavorful, and a true taste of Isaan street food.",
+    "picture": "https://img-global.cpcdn.com/recipes/4e37a1e59c4bf43e/1200x630cq80/photo.jpg"
+   
+  },
+  {
+    "title": "Tam Tang",
+    "ingredients": "Cucumber + Chili + Garlic + Lime Juice + Fish Sauce + Palm Sugar + Tomato + Long Beans",
+    "steps": "1. Pound chili and garlic lightly in a mortar.\n2. Add palm sugar, fish sauce, and lime juice, then mix until well combined.\n3. Add sliced cucumber, tomato, and long beans; toss gently and serve fresh.",
+    "timetaken": "10 minutes ",
+    "difficulty": "Easy",
+    "description": "A refreshing Thai-Isaan salad made with crisp cucumber, chili, lime, and fish sauce for a bright, tangy flavor. Its lighter and juicier than som tam but still has that signature Thai balance of spicy, sour, salty, and slightly sweet. Perfect as a side dish or a cooling complement to grilled meats and sticky rice.",
+    "picture": "https://migrationology.com/wp-content/uploads/2010/03/tam-tang.jpg"
+   
+  },
+  {
+    "title": "Nam Tok Hmoo",
+    "ingredients": "Grilled Pork + Lime Juice + Fish Sauce + Chili Flakes + Ground Roasted Rice + Shallot + Mint + Coriander + Green Onion",
+    "steps": "1. Grill the meat until cooked, then slice thinly.\n2. Mix lime juice, fish sauce, chili flakes, and roasted rice powder to make the dressing.\n3. Add meat, shallots, mint, coriander, and green onion; toss well and serve with sticky rice.",
+    "timetaken": "25 minutes ",
+    "difficulty": "Medium",
+    "description": "A flavorful Thai-Isaan salad made with grilled pork tossed in lime juice, chili, and roasted rice powder. The smoky grilled meat combines perfectly with the tangy and spicy dressing, creating a refreshing yet bold taste. Often served with sticky rice and fresh vegetables, Nam Tok is a true balance of heat, sourness, and aroma.",
+    "picture": "https://www.eatingthaifood.com/wp-content/uploads/2015/04/thai-nam-tok-recipe.jpg"
+   
+  },
+  {
+    "title": "Phat Khi Mao",
+    "ingredients": "Wide Rice Noodles + Chicken + Chili + Garlic + Bell Pepper + Soy Sauce + Oyster Sauce + Fish Sauce + Sugar + Holy Basil + Green Peppercorns",
+    "steps": "1. Fry chili and garlic in a bit of oil until fragrant.\n2. Add meat and stir-fry, then mix in noodles and season with soy sauce, oyster sauce, fish sauce, and sugar.\n3. Add bell pepper, green peppercorns, and basil leaves; toss quickly and serve hot.",
+    "timetaken": "20 minutes ",
+    "difficulty": "Medium ",
+    "description": "spicy and aromatic Thai stir-fried noodle dish known for its bold flavor and irresistible heat. Made with wide rice noodles, meat, chili, garlic, and fragrant holy basil, its the perfect mix of spicy, savory, and slightly sweet. Despite the name, it contains no alcohol.",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sapaketti_phat_khi_mao.jpg"
+   
+  },
+  {
+    "title": "Phat See Ew",
+    "ingredients": "Wide Rice Noodles + Pork or Chicken + Egg + Garlic + Chinese Kale + Dark Soy Sauce + Light Soy Sauce + Sugar + White Pepper + Oil",
+    "steps": "1. Heat oil in a wok, fry garlic until fragrant, then add meat and cook until done.\n2. Add noodles and season with dark soy sauce, light soy sauce, and sugar.\n3. Push noodles aside, crack in an egg, scramble lightly, mix everything together, and add kale before serving.",
+    "timetaken": "20 minutes ",
+    "difficulty": "Easy",
+    "description": "A classic Thai stir-fried noodle dish made with wide rice noodles, egg, and Chinese kale tossed in dark and light soy sauce. The noodles are slightly charred in the wok, giving them a smoky aroma and deep savory flavor. Simple yet satisfying, its a favorite street food that perfectly balances sweetness and saltiness.",
+    "picture": "https://thewoksoflife.com/wp-content/uploads/2017/02/pad-see-ew-11-2.jpg"
+   
+  },
+  {
+    "title": "Phat Thai",
+    "ingredients": "Thai stir-fried noodles + fish sauce + garlic",
+    "steps": "1. Soak rice noodles in warm water until soft, then drain.\n2. Stir-fry garlic, protein (shrimp or chicken), and egg; add noodles and Pad Thai sauce (tamarind, fish sauce, sugar).\n3. Toss in bean sprouts and chives, top with crushed peanuts and lime wedges before serving.",
+    "timetaken": "10 minutes ",
+    "difficulty": "Easy",
+    "description": "Pad Thai is a classic Thai stir-fried noodle dish made with rice noodles, shrimp or chicken, eggs, bean sprouts, and peanuts, tossed in a sweet-sour tamarind sauce.",
+    "picture": "https://recipe.ajinomoto.co.th/_next/image?url=https%3A%2F%2Fwww.ajinomoto.co.th%2Fstorage%2Fphotos%2Fshares%2FRecipe%2FMenu%2Flot2-2%2F6172a02059f48.jpg&w=1920&q=75"
+   
+  },
+  {
+    "title": "Yam Tawai",
+    "ingredients": "boiled vegetables + boiled eggs + coconut milk + roasted peanuts + chili paste + lime juice + fish sauce",
+    "steps": "1. Boil vegetables (like cabbage, carrots, and bean sprouts) and eggs, then slice.\n2. Mix coconut milk, chili paste, lime juice, and fish sauce to make the dressing.\n3. Toss everything together, sprinkle with roasted peanuts, and serve.",
+    "timetaken": "20 minutes",
+    "difficulty": "Medium",
+    "description": "Yum Tawai is a Thai mixed salad combining boiled vegetables, herbs, and coconut-peanut dressing for a creamy, spicy, and refreshing flavor.",
+    "picture": "https://scontent.fbkk29-6.fna.fbcdn.net/v/t1.6435-9/84422629_2971311606226773_1962745357863485440_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HgACnR6wPVgQ7kNvwHH1czh&_nc_oc=AdnHmFCcVN9J1z9GOSb101eV_dXuVM8r-j2HBXuurRGB6xl7MUq-oqABYtCCANyUvv4&_nc_zt=23&_nc_ht=scontent.fbkk29-6.fna&_nc_gid=ynGYqzl3VJ6K7ZNah08JQQ&oh=00_AfiqQRqTdNY1sbOQeldu0wJYyt0C0QzUsw6xqvmKQOO_YQ&oe=69319B02"
+   
+  },
+  {
+    "title": "Yam Pla Duk Fu",
+    "ingredients": "Crispy catfish salad+fish sauce+garlic",
+    "steps": "1. Fry shredded catfish until golden and fluffy, then set aside.\n2. Mix green mango, shallots, chili, lime juice, fish sauce, and sugar to make the salad.\n3. Top the crispy catfish with the salad mix and roasted peanuts before serving.",
+    "timetaken": "25 minutes",
+    "difficulty": "Medium",
+    "description": "Yum Pla Dook Foo is a crispy Thai catfish salad known for its fluffy fried catfish, spicy-sour mango salad, and refreshing texture.",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Yum_pladook_foo.jpg/960px-Yum_pladook_foo.jpg"
+   
+  },
+  {
+    "title": "Yam Sam Krob",
+    "ingredients": "crispy pork skin + dried shrimp + fried cashews + chili + lime juice + fish sauce + sugar + shallots + coriander",
+    "steps": "1. Mix lime juice, fish sauce, sugar, and chili to make the dressing.\n2. Add crispy pork skin, dried shrimp, cashews, shallots, and coriander.\n3. Toss everything together until coated evenly, then serve immediately.",
+    "timetaken": "20 minutes",
+    "difficulty": "Medium",
+    "description": "Yum Sam Krob is a crunchy Thai salad made with crispy pork skin, dried shrimp, and fried cashews tossed in a spicy-sour dressing.",
+    "picture": "https://i.ytimg.com/vi/rgB_Jx3rEbw/maxresdefault.jpg"
+   
+  },
+  {
+    "title": "Yam Yai",
+    "ingredients": "boiled chicken + shrimp + boiled egg + cucumber + tomato + onion + chili + lime juice + fish sauce + sugar + coriander",
+    "steps": "1. Boil chicken, shrimp, and eggs, then slice them along with the vegetables.\n2. Mix lime juice, fish sauce, sugar, and chili to make the dressing.\n3. Combine all ingredients, toss gently with the dressing, and garnish with coriander before serving.",
+    "timetaken": "25 minutes",
+    "difficulty": "Medium",
+    "description": "Yum Yai is a colorful Thai mixed salad with a variety of meats, eggs, and fresh vegetables tossed in a light, tangy dressing.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrksNr0lse6RIG8OHeWoyjEJE__lWyRlkj8g&s"
+   
+  },
+  {
+    "title": "Yen Ta Fo",
+    "ingredients": "rice noodles + fermented red bean curd + fish balls + squid + tofu + morning glory + vinegar + sugar + chili paste + garlic",
+    "steps": "1. Make the broth by mixing fermented red bean curd, vinegar, sugar, chili paste, and garlic in hot water.\n2. Blanch noodles, tofu, seafood, and morning glory separately.\n3. Pour the pink broth over noodles, top with toppings, and serve hot.",
+    "timetaken": "10 minutes ",
+    "difficulty": "Medium",
+    "description": "Yen Ta Fo is a Thai pink noodle soup known for its tangy, slightly sweet broth made with fermented bean curd, served with seafood, tofu, and morning glory.",
+    "picture": "https://www.marionskitchen.com/wp-content/uploads/2022/12/Yen-Ta-Fo-Thai-Pink-Noodle-Soup-01-1200x1500.jpg"
+   
+  },
+  {
+    "title": "Rad Na",
+    "ingredients": "wide rice noodles + pork or chicken + Chinese broccoli + garlic + soy sauce + oyster sauce + sugar + cornstarch + water",
+    "steps": "1. Stir-fry noodles with soy sauce until slightly browned, then set aside.\n2. Cook garlic and meat, add Chinese broccoli, water, oyster sauce, soy sauce, and sugar.\n3. Stir in cornstarch slurry to thicken the sauce, pour over noodles, and serve hot.",
+    "timetaken": "10 minutes ",
+    "difficulty": "Easy",
+    "description": "Rad Na is a Thai-Chinese noodle dish featuring wide rice noodles topped with a savory gravy made from soy sauce, garlic, and Chinese broccoli.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw6x7_m0nh0FagpPI-FwPBQAm3Fq-OUj66Cg&s"
+   
+  },
+  {
+    "title": "Larb",
+    "ingredients": "minced pork or chicken + lime juice + fish sauce + chili flakes + roasted rice powder + shallots + mint leaves + coriander",
+    "steps": "1. Cook minced meat in a pan without oil until done.\n2. Mix in lime juice, fish sauce, chili flakes, and roasted rice powder.\n3. Add shallots, mint, and coriander, then toss and serve with fresh vegetables.",
+    "timetaken": "15 minutes",
+    "difficulty": "Easy",
+    "description": "Larb is a classic Thai minced meat salad flavored with lime juice, fish sauce, chili flakes, and roasted rice powder, served with fresh herbs.",
+    "picture": "https://thai-foodie.com/wp-content/uploads/2024/09/larb-redo.jpg"
+   
+  },
+  {
+    "title": "Som Tam",
+    "ingredients": "papaya + tomato + long beans + garlic + chili + lime juice + fish sauce + palm sugar + roasted peanuts",
+    "steps": "1. Pound garlic and chili together in a mortar.\n2. Add palm sugar, fish sauce, and lime juice, then mix well.\n3. Add papaya, tomato, long beans, and peanuts, lightly pound and toss before serving.",
+    "timetaken": "10 minutes ",
+    "difficulty": "Easy",
+    "description": "Som Tum is a famous Thai green papaya salad that combines spicy, sour, salty, and sweet flavors with a crunchy texture.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDXtHrN4SVuOl3IGSCZmjKGX8RftQU5rIErw&s"
+   
+  },
+  {
+    "title": "Suea Rong Hai",
+    "ingredients": "beef steak + fish sauce + soy sauce + lime juice + chili flakes + roasted rice powder + sugar + coriander + garlic",
+    "steps": "1. Marinate beef with fish sauce, soy sauce, and garlic, then grill until slightly charred.\n2, Mix lime juice, chili flakes, roasted rice powder, sugar, and fish sauce for the dipping sauce.\n3. Slice the grilled beef thinly, top with sauce, and garnish with coriander before serving.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Sua Rong Hai, or Crying Tiger, is a Thai grilled beef dish served with a spicy dipping sauce made from roasted rice, chili, and lime juice.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoqvLVu2qHF-gSgui1BjCNKPCFib2xFeQ6qA&s"
+   
+  },
+  {
+    "title": "Sai Krok Isan",
+    "ingredients": "minced pork + cooked rice + garlic + salt + sugar + pepper + sausage casing",
+    "steps": "1. Mix minced pork, rice, garlic, salt, sugar, and pepper, then stuff into sausage casings.\n2. Hang or store at room temperature for about 1-2 days to ferment.\n3. Grill until golden brown and serve with fresh cabbage, chili, and ginger.",
+    "timetaken": "48 hours ",
+    "difficulty": "Medium ",
+    "description": "Sai Krok Isan is a traditional Northeastern Thai fermented sausage made from pork and rice, offering a tangy, savory flavor when grilled.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn6YO68sq3iKHamoOnx2Fz-QilgKjaenrvBg&s"
+   
+  },
+  {
+    "title": "Sai Ua",
+    "ingredients": "minced pork + red curry paste + lemongrass + kaffir lime leaves + garlic + shallots + turmeric + sausage casing",
+    "steps": "1. Mix minced pork with red curry paste, herbs, and spices until well combined.\n2. Stuff the mixture into sausage casings and twist into links.\n3. Grill over medium heat until cooked through and fragrant.",
+    "timetaken": "60 minutes",
+    "difficulty": "Medium",
+    "description": "Sai Ua is a Northern Thai sausage made from minced pork mixed with aromatic herbs, curry paste, and spices, then grilled until flavorful and juicy?",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyGb1JV9kpejlUYEMLMwt6BAlVbkvMW-LI1g&s"
+   
+  },
+  {
+    "title": "Mee Krob",
+    "ingredients": "crispy rice noodles + tofu + shrimp + garlic + tamarind juice + sugar + fish sauce + lime juice + chili + coriander",
+    "steps": "1. Deep-fry rice noodles until crispy, then set aside.\n2. Stir-fry garlic, tofu, and shrimp; add tamarind juice, sugar, fish sauce, lime juice, and chili to make the sauce.\n3. Toss crispy noodles in the sauce, mix well, and garnish with coriander before serving.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Mee Krob is a crispy Thai noodle dish coated in a sweet and tangy sauce, often mixed with tofu, shrimp, and aromatic herbs.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIu9QyZ7AI6_-V1u7IblJ46sdK3c7OY6eKkA&s"
+   
+  },
+  {
+    "title": "Mee Kati",
+    "ingredients": "rice noodles + coconut milk + red curry paste + tofu or minced pork + palm sugar + fish sauce + bean sprouts + boiled egg",
+    "steps": "1. Stir-fry red curry paste with coconut milk, add tofu or pork, then season with fish sauce and palm sugar.\n2. Boil rice noodles until soft, then drain.\n3. Pour the coconut curry sauce over the noodles, top with bean sprouts and sliced boiled egg before serving.2",
+    "timetaken": "25 minutes",
+    "difficulty": "Medium",
+    "description": "Mee Kati is a Thai noodle dish featuring soft rice noodles served with a rich, creamy coconut milk sauce flavored with curry paste and herbs.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIH0TayZPgd7gDyOYVUl-dtClDevL6_hBu9g&s"
+   
+  },
+  {
+    "title": "Moo Manao",
+    "ingredients": "boiled pork slices + lime juice + fish sauce + chili + garlic + sugar + coriander + cabbage",
+    "steps": "1. Boil pork slices until cooked, then drain.\n2. Mix lime juice, fish sauce, chili, garlic, and sugar to make the spicy dressing.\n3. Pour dressing over pork, toss well, and garnish with coriander and cabbage before serving.",
+    "timetaken": "15 minutes",
+    "difficulty": "Easy",
+    "description": "Moo Manao is a Thai spicy lime pork salad made with tender boiled pork slices tossed in a zesty mix of lime juice, garlic, chili, and fish sauce.",
+    "picture": "https://www.simplysuwanee.com/wp-content/uploads/2024/02/Moo-manao-1.jpg"
+   
+  },
+  {
+    "title": "Hoi Tod",
+    "ingredients": "fresh oysters + rice flour + egg + bean sprouts + garlic + fish sauce + soy sauce + chili sauce + spring onion",
+    "steps": "1. Mix rice flour with water and fish sauce to make a batter, then pour onto a hot pan with garlic.\n2. Add oysters and crack an egg on top, frying until crispy and golden.\n3. Serve with bean sprouts, spring onions, and chili sauce on the side.",
+    "timetaken": "20 minutes",
+    "difficulty": "Medium",
+    "description": "Hoi Tod is a crispy Thai oyster omelet made with a light batter, fresh oysters, and eggs, served with a tangy chili sauce.",
+    "picture": "https://www.exoticfoodthailand.com/wp-content/uploads/2024/09/hoi-tod-recipe-1-scaled.jpg"
+   
+  },
+  {
+    "title": "Kaeng Kradang",
+    "ingredients": "pork leg + pork skin + garlic + pepper + coriander root + fish sauce + salt + water + fried shallots",
+    "steps": "1. Boil pork leg and skin with garlic, pepper, and coriander root until tender and gelatinous.\n2. Season with fish sauce and salt, then pour into a bowl and let cool.\n3. Refrigerate until the broth sets into jelly, then garnish with fried shallots before serving.",
+    "timetaken": "4 hours",
+    "difficulty": "Hard",
+    "description": "Kaeng Kradang is a Northern Thai chilled pork curry that turns jelly-like when cooled, made from slow-cooked pork, herbs, and spices.",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kaeng_kradang.jpg/500px-Kaeng_kradang.jpg"
+   
+  },
+  {
+    "title": "Kaeng Kari",
+    "ingredients": "chicken or beef + coconut milk + yellow curry paste + potato + onion + fish sauce + sugar + curry powder",
+    "steps": "1.Stir-fry yellow curry paste in a bit of coconut milk until fragrant.\n2. Add meat, potatoes, and onions, then pour in the remaining coconut milk.\n3. Simmer until tender, season with fish sauce and sugar, then serve hot with rice.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Kari is a Thai yellow curry known for its mild, creamy flavor made with coconut milk, curry powder, and tender meat or potatoes.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs4heWnyRbRQtiLbb8CNXj66rqQUZYhkEQDA&s"
+   
+  },
+  {
+    "title": "Kaeng Khanun",
+    "ingredients": "young jackfruit + pork or ribs + tomatoes + chili paste + garlic + shallots + fish sauce + kaffir lime leaves + basil",
+    "steps": "1. Boil pork and young jackfruit until slightly tender.\n2. Add chili paste, garlic, shallots, and tomatoes, then pour in water and simmer.\n3. Season with fish sauce, add kaffir lime leaves and basil, and cook until flavorful.",
+    "timetaken": "40 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Khanun is a Northern Thai curry made with young jackfruit, tomatoes, and herbs, offering a mildly spicy and earthy flavor.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4TIJQq0D-FRIdHhb6vFS6s0KcDLGZ1MdbQ&s"
+   
+  },
+  {
+    "title": "Kaeng Khee Lek",
+    "ingredients": "cassia leaves + coconut milk + red curry paste + pork or beef + fish sauce + sugar + kaffir lime leaves + chili",
+    "steps": "1. Boil cassia leaves and discard the first water to reduce bitterness.\n2. Stir-fry red curry paste with coconut milk, then add meat and cook until tender.\n3. Add cassia leaves, season with fish sauce and sugar, then simmer until rich and aromatic.",
+    "timetaken": "40 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Khee Lek is a traditional Thai curry made with Siamese cassia leaves, coconut milk, and curry paste, offering a rich and slightly bitter taste.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3_-1jffAGJUEIXX_SKGdbpEeAQGLZcdeTDw&s"
+   
+  },
+  {
+    "title": "Kaeng Khiao Wan",
+    "ingredients": "chicken or beef + green curry paste + coconut milk + eggplant + fish sauce + sugar + basil leaves + kaffir lime leaves + chili",
+    "steps": "1. Stir-fry green curry paste with some coconut milk until fragrant.\n2. Add meat and remaining coconut milk, then simmer until tender.\n3. Add eggplant, season with fish sauce and sugar, and finish with basil and chili before serving.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Khiao Wan, or Green Curry, is a creamy and aromatic Thai curry made with green curry paste, coconut milk, and tender meat or eggplant.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT50pEmT61u_z1dPHPMaiWxSyoakzaRdSMPkw&s"
+   
+  },
+  {
+    "title": "Kaeng Kua",
+    "ingredients": "shrimp or chicken + red curry paste + coconut milk + pineapple or bamboo shoots + fish sauce + sugar + kaffir lime leaves + basil",
+    "steps": "1. Stir-fry red curry paste in coconut milk until fragrant.\n2. Add shrimp or chicken, then pour in the rest of the coconut milk and simmer.\n3. Add pineapple or bamboo shoots, season with fish sauce and sugar, and finish with kaffir lime leaves and basil.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Kua is a Thai red curry thats slightly sweet and spicy, made with coconut milk, curry paste, and your choice of meat or seafood.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQklNQ2RpAbb3DJb5YNtsSU5bBbnHRXya-3_Q&s"
+   
+  },
+  {
+    "title": "Kaeng Kha",
+    "ingredients": "chicken + coconut milk + galangal + lemongrass + kaffir lime leaves + fish sauce + lime juice + chili + coriander",
+    "steps": "1. Boil coconut milk with galangal, lemongrass, and kaffir lime leaves to infuse flavor.\n2. Add chicken and simmer until cooked through.\n3. Season with fish sauce and lime juice, add chili, and garnish with coriander before serving.",
+    "timetaken": "25 minutes",
+    "difficulty": "Easy",
+    "description": "Kaeng Kha, or Galangal Soup, is a mild Thai coconut soup flavored with galangal, lemongrass, and kaffir lime leaves, usually made with chicken.",
+    "picture": "https://i.ytimg.com/vi/0cVGcgZyWU4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC5-NuqniSzVQaxvugR5RlUPU0tJA"
+   
+  },
+  {
+    "title": "Kaeng Tumi",
+    "ingredients": "fish fillet + turmeric + chili paste + lemongrass + shallots + tamarind juice + fish sauce + salt + water",
+    "steps": "1. Blend turmeric, chili, lemongrass, and shallots into a paste.\n2. Boil the paste with water and tamarind juice to create a spicy-sour broth.\n3. Add fish fillets, season with fish sauce and salt, and simmer until cooked through.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium ",
+    "description": "Kaeng Tumi is a Southern Thai curry known for its spicy, sour flavor made with turmeric, chili paste, and fish, often served with vegetables.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBmbeF_e6aQ_IbvOZ0giYvodmxWZXFfqitEQ&s"
+   
+  },
+  {
+    "title": "Kaeng Thepho",
+    "ingredients": "pork belly + red curry paste + coconut milk + morning glory + tamarind juice + palm sugar + fish sauce + kaffir lime leaves",
+    "steps": "1. Stir-fry red curry paste in coconut milk until fragrant, then add pork belly.\n2. Pour in more coconut milk, tamarind juice, palm sugar, and fish sauce.\n3. Add morning glory and kaffir lime leaves, simmer until tender and flavorful.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Thepo is a rich Thai red curry featuring pork belly and morning glory simmered in coconut milk with a sweet and tangy flavor.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0PXyayi38axTZ2Vi7_F8hSmhnFr0f5xjMw&s"
+   
+  },
+  {
+    "title": "Kaeng Noppakao",
+    "ingredients": "mixed vegetables (9 kinds) + red curry paste + coconut milk + tofu or shrimp + fish sauce + sugar + kaffir lime leaves + basil",
+    "steps": "1. Stir-fry red curry paste with coconut milk until aromatic.\n2. Add tofu or shrimp and assorted vegetables, then pour in more coconut milk.\n3. Season with fish sauce and sugar, add kaffir lime leaves and basil, and simmer until vegetables are tender.",
+    "timetaken": "35 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Noppakao is a colorful Thai mixed vegetable curry featuring nine kinds of vegetables cooked in coconut milk with red curry paste for a mild, balanced flavor.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzzi4z4hV473XR1c665zWulPScyW3EIK8ow&s"
+   
+  },
+  {
+    "title": "Kaeng Nang Loy",
+    "ingredients": "minced pork or fish balls + red curry paste + coconut milk + kaffir lime leaves + fish sauce + sugar + basil + chili",
+    "steps": "1. Stir-fry red curry paste in coconut milk until fragrant.\n2. Add pork or fish balls and simmer until cooked through.\n3. Season with fish sauce and sugar, then add kaffir lime leaves, basil, and chili before serving.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Nang Loi is a rare traditional Thai curry made with small pork or fish balls simmered in coconut milk and red curry paste, offering a rich and mildly spicy flavor.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsXZIzF_l3aF2YGmdgmAD-xNCvlI-Bmm8SWQ&s"
+   
+  },
+  {
+    "title": "Kaeng Buan",
+    "ingredients": "minced pork or beef + young vegetables + chili paste + garlic + shallots + lemongrass + fish sauce + salt + basil",
+    "steps": "1. Pound chili, garlic, shallots, and lemongrass into a paste.\n2. Stir-fry the paste, add minced meat, and cook until fragrant.\n3. Add vegetables, season with fish sauce and salt, then simmer until tender and well-blended.",
+    "timetaken": "35 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Buon is a traditional Northern Thai curry made with minced meat, herbs, and young vegetables, giving it a rustic and earthy flavor.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUEWtY_vO7tLgQQVyNJ1aEOvS86YIA37iDXA&s"
+   
+  },
+  {
+    "title": "Kaeng Bon",
+    "ingredients": "taro stems + coconut milk + red curry paste + shrimp or pork + lemongrass + kaffir lime leaves + fish sauce + sugar",
+    "steps": "1. Boil taro stems until soft, then drain.\n2. Stir-fry red curry paste with coconut milk, add shrimp or pork, and simmer.\n3. Add taro stems, season with fish sauce and sugar, and cook until rich and aromatic.",
+    "timetaken": "40 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Bon is a traditional Thai curry made with taro stems (bon), coconut milk, and herbs, offering a creamy texture with a slightly spicy and earthy taste.",
+    "picture": "https://lannainfo.library.cmu.ac.th/en_lannafood/images/lanna_food/fsmall-090429102039.jpg"
+   
+  },
+  {
+    "title": "Kaeng Bum Bai",
+    "ingredients": "mixed vegetables + chili paste + lemongrass + turmeric + garlic + shallots + fish sauce + shrimp or fish + basil",
+    "steps": "1. Pound chili, turmeric, lemongrass, garlic, and shallots into a curry paste.\n2. Boil water, add the paste, then mix in shrimp or fish.\n3. Add vegetables, season with fish sauce, and simmer until cooked and fragrant.",
+    "timetaken": "35 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Bum Bai is an old-style Southern Thai curry made with mixed vegetables and fresh herbs, known for its light, spicy, and slightly herbal flavor.",
+    "picture": "https://www.gourmetandcuisine.com/Images/editor_upload/_editor1504841839_original.jpg"
+   
+  },
+  {
+    "title": "Kaeng Paa",
+    "ingredients": "chicken or pork + chili paste + kaffir lime leaves + galangal + lemongrass + bamboo shoots + fish sauce + peppercorns + basil",
+    "steps": "1. Stir-fry chili paste with a bit of water until fragrant.\n2. Add meat, bamboo shoots, and herbs, then pour in water and simmer.\n3. Season with fish sauce, add peppercorns and basil, and cook until rich and spicy.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Pa, or Jungle Curry, is a spicy Thai curry without coconut milk, packed with herbs, vegetables, and meat for a bold, fiery flavor.",
+    "picture": "https://img.kapook.com/u/2018/surauch/cooking/co1/pa4.jpg"
+   
+  },
+  {
+    "title": "Kaeng Phet",
+    "ingredients": "chicken or beef + red curry paste + coconut milk + bamboo shoots + fish sauce + sugar + kaffir lime leaves + basil",
+    "steps": "1. Stir-fry red curry paste with some coconut milk until fragrant.\n2. Add meat and bamboo shoots, then pour in the rest of the coconut milk.\n3. Season with fish sauce and sugar, add kaffir lime leaves and basil, and simmer until tender.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium ",
+    "description": "Kaeng Phet, or Red Curry, is a classic Thai curry made with red curry paste, coconut milk, and meat, offering a rich, spicy, and creamy flavor.",
+    "picture": "https://img.wongnai.com/p/1920x0/2019/03/10/e0a3e498f16241a78de86679ed49be3f.jpg"
+   
+  },
+  {
+    "title": "Kaeng Matsaman",
+    "ingredients": "beef or chicken + massaman curry paste + coconut milk + potato + onion + roasted peanuts + palm sugar + tamarind juice + fish sauce",
+    "steps": "1. Stir-fry massaman curry paste in coconut milk until fragrant.\n2. Add meat, potatoes, and onions, then pour in more coconut milk and simmer until tender.\n3. Season with palm sugar, fish sauce, and tamarind juice, then add roasted peanuts before serving.\n\n",
+    "timetaken": "40 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Matsaman, or Massaman Curry, is a rich and mildly spiced Thai-Muslim curry made with coconut milk, potatoes, and peanuts for a sweet and savory flavor.",
+    "picture": "https://recipe.sgethai.com/wp-content/uploads/2025/05/280525-chicken-mussaman-curry-01.webp"
+   
+  },
+  {
+    "title": "Kaeng Ron",
+    "ingredients": "mixed vegetables + minced pork or tofu + chili + garlic + lemongrass + lime juice + fish sauce + coriander + shallots",
+    "steps": "1. Boil water with chili, garlic, lemongrass, and shallots to create a flavorful broth.\n2. Add minced pork or tofu and vegetables, then simmer until cooked.\n3. Season with fish sauce and lime juice, then garnish with coriander before serving.",
+    "timetaken": "20 minutes ",
+    "difficulty": "Easy",
+    "description": "Kaeng Ron, also known as Thai Hot Soup, is a clear, spicy-sour soup made with mixed vegetables, herbs, and sometimes minced meat or tofu.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUA-s7F9aL6aCgMshR1qii6VN5NDm6BGxp4w&s"
+   
+  },
+  {
+    "title": "Kaeng Rawaeng",
+    "ingredients": "beef or chicken + yellow curry paste + coconut milk + lemongrass + turmeric + fish sauce + palm sugar + kaffir lime leaves",
+    "steps": "1. Stir-fry yellow curry paste with coconut milk until fragrant.\n2. Add meat and lemongrass, then pour in more coconut milk and simmer until tender.\n3. Season with fish sauce and palm sugar, add kaffir lime leaves, and cook until rich and aromatic.",
+    "timetaken": "35 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Rawaeng is a Southern-style Thai curry made with beef or chicken, turmeric, and coconut milk, known for its rich yellow color and slightly spicy, fragrant flavor.",
+    "picture": "https://recipe.sgethai.com/wp-content/uploads/2025/10/09102025-rawang-curry-cover.webp"
+   
+  },
+  {
+    "title": "Kaeng Runjuan",
+    "ingredients": "grilled beef or pork + shrimp paste + lemongrass + shallots + kaffir lime leaves + chili + fish sauce + tamarind juice + coriander",
+    "steps": "1. Boil water with shrimp paste, lemongrass, shallots, and chili to make a flavorful broth.\n2. Add grilled meat and kaffir lime leaves, then simmer until the aroma develops.\n3. Season with fish sauce and tamarind juice, then garnish with coriander before serving.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Ranjuaan is a traditional Thai soup made from leftover grilled meat simmered in a fragrant broth with shrimp paste, lemongrass, and kaffir lime leaves. It has a savory, slightly sour, and aromatic flavor.",
+    "picture": "https://img.wongnai.com/p/1920x0/2018/03/01/f28139dca09646e9a9d43e919c6e6bfa.jpg"
+   
+  },
+  {
+    "title": "Kaeng Liang",
+    "ingredients": "shrimp or dried shrimp + mixed vegetables + shrimp paste + pepper + garlic + shallots + fish sauce + basil leaves",
+    "steps": "1. Pound shrimp paste, pepper, garlic, and shallots into a paste.\n2. Boil water, add the paste, and stir until fragrant.\n3. Add shrimp and vegetables, season with fish sauce, and finish with basil leaves before serving.",
+    "timetaken": "25 minutes",
+    "difficulty": "Easy",
+    "description": "Kaeng Liang is a healthy Thai vegetable soup made with shrimp paste, pepper, and mixed vegetables, offering a light, spicy, and aromatic flavor.",
+    "picture": "https://img.wongnai.com/p/1920x0/2023/05/11/3a524f0d7ef84a879203fcaf330a30d9.jpg"
+   
+  },
+  {
+    "title": "Kaeng Som",
+    "ingredients": "fish or shrimp + tamarind juice + chili paste + shallots + fish sauce + palm sugar + mixed vegetables + water",
+    "steps": "1. Blend chili, shallots, and water into a curry paste, then bring to a boil with tamarind juice.\n2. Add vegetables and cook until nearly tender.\n3. Add fish or shrimp, season with fish sauce and palm sugar, and simmer until cooked through.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Som is a tangy and spicy Thai sour curry made without coconut milk, featuring fish or shrimp and vegetables in a tamarind-based broth.",
+    "picture": "https://recipe.sgethai.com/wp-content/uploads/2025/06/cover-17062025-kaeng-som-marum.webp"
+   
+  },
+  {
+    "title": "Kaeng Salae",
+    "ingredients": "wild betel leaves + pork or fish + chili paste + garlic + shallots + lemongrass + fish sauce + salt + basil",
+    "steps": "1. Pound chili, garlic, shallots, and lemongrass into a curry paste.\n2. Boil water, add the paste and meat, then simmer until cooked.\n3. Add wild betel leaves, season with fish sauce and salt, and cook until fragrant.",
+    "timetaken": "35 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Salae is a Northern Thai curry made with wild betel leaves (salae), chili paste, and pork or fish, giving it a rich, spicy, and herbal flavor.",
+    "picture": "https://inwfile.com/s-dp/5wibtw.jpg"
+   
+  },
+  {
+    "title": "Kaeng Sap Nok",
+    "ingredients": "minced bird meat or chicken + chili paste + garlic + shallots + lemongrass + kaffir lime leaves + fish sauce + basil + chili",
+    "steps": "1. Pound chili, garlic, shallots, and lemongrass into a fine curry paste.\n2. Stir-fry the paste, add minced meat, and cook until well blended.\n3. Add kaffir lime leaves and basil, season with fish sauce, and cook until fragrant and slightly dry.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Sap Nok is a traditional Northern Thai curry made with minced bird meat or chicken, chili paste, and local herbs, known for its bold and spicy flavor.",
+    "picture": "https://i.ytimg.com/vi/C608biSJiMM/maxresdefault.jpg"
+   
+  },
+  {
+    "title": "Kaeng Singhon",
+    "ingredients": "chicken or beef + coconut milk + curry powder + garlic + shallots + turmeric + cinnamon + fish sauce + sugar",
+    "steps": "1. Stir-fry garlic, shallots, and curry powder until fragrant.\n2. Add meat and turmeric, then pour in coconut milk and simmer until tender.\n3. Season with fish sauce and sugar, add a pinch of cinnamon, and cook until rich and flavorful.",
+    "timetaken": "40 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Singhol, or Sri Lankan-style Thai curry, is a rich, aromatic curry influenced by Sri Lankan flavors, using coconut milk, curry powder, and a mix of spices.",
+    "picture": "https://cheewajit.com/app/uploads/2021/01/%E0%B9%81%E0%B8%81%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%A5-%E0%B8%88%E0%B8%B1%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%AA-1024x1024.jpg"
+   
+  },
+  {
+    "title": "Kaeng Hong",
+    "ingredients": "minced pork + chili paste + garlic + shallots + lemongrass + fish sauce + salt + kaffir lime leaves + basil",
+    "steps": "1. Pound chili, garlic, shallots, and lemongrass into a smooth paste.\n2. Stir-fry the paste until fragrant, then add minced pork and cook until well combined.\n3. Season with fish sauce and salt, then add kaffir lime leaves and basil before serving.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Hong is a Northern Thai curry made with minced pork, chili paste, and herbs, offering a slightly spicy and aromatic flavor similar to Northern-style stir-fried curry.",
+    "picture": "https://foodietaste.com/storages/Blog/78/Recipe/20122559130648.jpg"
+   
+  },
+  {
+    "title": "Kaeng Lueang",
+    "ingredients": "fish or shrimp + turmeric + chili paste + lemongrass + shallots + tamarind juice + fish sauce + salt + water",
+    "steps": "1. Pound turmeric, chili, lemongrass, and shallots into a curry paste.\n2. Boil water, add the paste and tamarind juice, and bring to a simmer.\n3. Add fish or shrimp, season with fish sauce and salt, and cook until tender and flavorful.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Lueang, or Southern Thai Yellow Curry, is a spicy and sour curry made without coconut milk, known for its bright yellow color from turmeric and its bold flavor.",
+    "picture": "https://img.wongnai.com/p/1920x0/2019/05/02/8132dc2dee994baeb46ebbe2739e007b.jpg"
+   
+  },
+  {
+    "title": "Kaeng Hang Lay",
+    "ingredients": "pork belly + hung lay curry paste + garlic + ginger + shallots + tamarind juice + palm sugar + fish sauce + peanuts",
+    "steps": "1. Marinate pork with hung lay curry paste, tamarind juice, and fish sauce.\n2. Stir-fry garlic, ginger, and shallots, then add the marinated pork.\n3. Simmer until tender, add palm sugar and peanuts, and cook until the sauce thickens.",
+    "timetaken": "60 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Hung Lay is a Northern Thai pork curry influenced by Burmese cuisine, known for its rich, sweet-sour flavor made with garlic, ginger, and tamarind.",
+    "picture": "https://www.unileverfoodsolutions.co.th/dam/global-ufs/mcos/SEA/calcmenu/recipes/TH-recipes/soups/%E0%B9%81%E0%B8%81%E0%B8%87%E0%B8%AE%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A5/%E0%B9%81%E0%B8%81%E0%B8%87%E0%B8%AE%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A5_header.jpg"
+   
+  },
+  {
+    "title": "Kaeng Ho",
+    "ingredients": "glass noodles + leftover curry or chili paste + pork or chicken + bamboo shoots + kaffir lime leaves + lemongrass + fish sauce + basil",
+    "steps": "1. Stir-fry chili paste or leftover curry until fragrant, then add meat and bamboo shoots.\n2. Add soaked glass noodles, kaffir lime leaves, and lemongrass, mixing well.\n3. Season with fish sauce and add basil, then stir until everything is well combined and flavorful.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Ho is a Northern Thai stir-fried curry made from leftover curries mixed with glass noodles, vegetables, and herbs, giving it a spicy and aromatic flavor.",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Kaeng_ho.jpg/1200px-Kaeng_ho.jpg"
+   
+  },
+  {
+    "title": "Kai Hor Bai Toey",
+    "ingredients": "chicken + pandan leaves + soy sauce + oyster sauce + garlic + coriander root + pepper + sugar + sesame oil",
+    "steps": "1. Marinate chicken with soy sauce, oyster sauce, garlic, coriander root, pepper, sugar, and sesame oil.\n2. Wrap each chicken piece with pandan leaves.\n3. Deep-fry or bake until golden brown, then serve with sweet soy dipping sauce.",
+    "timetaken": "40 minutes",
+    "difficulty": "Medium",
+    "description": "Kai Hor Bai Toey, or Pandan-Wrapped Chicken, is a Thai appetizer made of marinated chicken wrapped in pandan leaves and deep-fried for a fragrant, juicy taste.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSimJ2_R0sXUvf62BHJ49kjy3C6Q0FGo0I3aw&s"
+   
+  },
+  {
+    "title": "Kha Kai Super",
+    "ingredients": "chicken feet + lemongrass + kaffir lime leaves + galangal + chili + lime juice + fish sauce + sugar + coriander",
+    "steps": "1. Boil chicken feet with lemongrass, galangal, and kaffir lime leaves until tender.\n2. Add chili, fish sauce, and sugar, then simmer for more flavor.\n3. Turn off the heat, add lime juice, and garnish with coriander before serving.",
+    "timetaken": "45 minutes",
+    "difficulty": "Medium",
+    "description": "Kha Gai Super is a spicy and sour Thai chicken feet soup known for its bold flavor from lime juice, chili, and herbs, with tender, gelatinous chicken feet.",
+    "picture": "https://i.ytimg.com/vi/GiPAFqDZuto/maxresdefault.jpg"
+   
+  },
+  {
+    "title": "Kai Jeow",
+    "ingredients": "Eggs+oil+fish sauce",
+    "steps": "1. Beat eggs with fish sauce and green onion.\n2. Heat oil in a pan until hot.\n3. Pour in the egg mixture and fry until golden and crispy.",
+    "timetaken": "10 minutes",
+    "difficulty": "Easy",
+    "description": "Khai Jiao is a classic Thai-style omeletcrispy on the outside, fluffy inside, and often served over rice with chili sauce.",
+    "picture": "https://www.amarinbabyandkids.com/app/uploads/2022/05/%E0%B9%84%E0%B8%82%E0%B9%88%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7FB.jpg"
+   
+  },
+  {
+    "title": "Kai Dao",
+    "ingredients": "Eggs + oil + salt",
+    "steps": "1. Heat oil in a pan over medium heat.\n2. Crack the egg into the pan.\n3. Fry until the white is set and edges are crispy, leaving the yolk as desired.",
+    "timetaken": "5 minutes",
+    "difficulty": "Easy",
+    "description": "Khai Dao is a simple Thai-style fried egg, typically served sunny-side up with a crispy edge and runny yolk.",
+    "picture": "https://png.pngtree.com/thumb_back/fh260/background/20230815/pngtree-a-fried-egg-on-a-white-background-image_13069928.jpg"
+   
+  },
+  {
+    "title": "Kai Nam",
+    "ingredients": "Eggs + water + vegetables + salt",
+    "steps": "1. Boil water with a pinch of salt.\n2. Gently add the eggs and cook for 6-8 minutes for soft yolk.\n3. Remove eggs, cool slightly, peel, and serve.",
+    "timetaken": "8 minutes",
+    "difficulty": "Easy",
+    "description": "Khai Nam is a Thai-style soft-boiled egg with a runny yolk, often served as a side or in noodle soups.",
+    "picture": "https://www.sgethai.com/wp-content/uploads/2021/09/31.jpg"
+   
+  },
+  {
+    "title": "Kaeng Liang",
+    "ingredients": "Herbs+shrimp+vegetables",
+    "steps": "1. Pound garlic, chilies, and lemongrass into a rough paste.2. Heat a pot and add a little oil, sauté the paste until fragrant.3. Add water or stock and bring to a boil.4. Add pork or chicken (if using) and cook until nearly done.5. Add shrimp or fish and cook until just cooked through.6. Add vegetables (long beans, pumpkin, baby corn) and simmer 5-10 minutes until tender.7. Season with fish sauce, salt, and shrimp paste.8. Garnish with fresh coriander before serving.",
+    "timetaken": "~30-40 minutes",
+    "difficulty": "Medium",
+    "description": "Kaeng Liang is a Northern Thai spicy herbal soup, packed with fresh vegetables, aromatic herbs, and your choice of protein. Its flavorful, slightly spicy, and nourishingperfect as a light meal or appetizer.",
+    "picture": "https://tse4.mm.bing.net/th/id/OIP.sBCiiPFuFkt_dLbmCJ0VeQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Kaeng Somrom",
+    "ingredients": "Fish or shrimp, tamarind paste, curry paste, palm sugar, fish sauce, mixed vegetables",
+    "steps": "Boil water + curry paste.Add tamarind, sugar, fish sauce.Add veggies, then fish/shrimp.Simmer till cooked.",
+    "timetaken": "25 mins",
+    "difficulty": "Easy",
+    "description": "A tangy, spicy Thai curry with fresh veggies and seafood  light but full of flavor.",
+    "picture": "https://tse4.mm.bing.net/th/id/OIP.k9H_4cY_rgep3DP1G3qX-wHaE6?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Kaeng Som",
+    "ingredients": "Sour curry paste+fish+vegetables",
+    "steps": "Boil water + curry paste.Add tamarind, sugar, fish sauce.Add veggies, then fish/shrimp.Simmer till done.",
+    "timetaken": "20-25 mins",
+    "difficulty": "Easy",
+    "description": "A spicy-sour curry with seafood and veggies  bold, light, and perfectly Thai.",
+    "picture": "https://cdn.tasteatlas.com/images/dishes/08e0465d28dd4060b8e98a81417b6b6b.jpg?mw=1300"
+   
+  },
+  {
+    "title": "Kaeng Salae",
+    "ingredients": "Herbs+meat+vegetables",
+    "steps": "Grill eggplant & chop.Boil water + curry paste.Add bamboo, lime leaves, grilled eggplant.Season with fish sauce.",
+    "timetaken": "30 mins",
+    "difficulty": "Medium",
+    "description": "Smoky, spicy northern curry  earthy flavor with grilled veggies and rich herbs.",
+    "picture": "https://media.istockphoto.com/id/1193329877/photo/kaeng-sa-lae-northerns-foods-of-thailand.jpg?s=170667a&w=0&k=20&c=FPRzuztHQ8n4_G3B9y_1mR8_zhhQiJR__K_3wnMqqJU="
+   
+  },
+  {
+    "title": "Kaeng Sap Nok",
+    "ingredients": "Wild bird meat (or chicken), curry paste, lemongrass, galangal, kaffir lime leaves, chili, fish sauce, basil.",
+    "steps": "Stir-fry curry paste till fragrant.Add meat, stir well.Add water, herbs, chili.Simmer till tender.",
+    "timetaken": "35 mins",
+    "difficulty": "Medium",
+    "description": "A bold, spicy jungle-style curry  rich herbs and gamey flavor, no coconut milk.",
+    "picture": "https://tse4.mm.bing.net/th/id/OIP.oWpIRkesPscFuiD4e5EEtwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Kaeng Singhon",
+    "ingredients": "Singhon leaves, curry paste, chili, garlic, shallots, lemongrass, fish sauce, fermented fish (pla ra), water.",
+    "steps": "Boil water + curry paste.Add pla ra, chili, lemongrass.Add Singhon leaves.Simmer till soft.",
+    "timetaken": "25 mins",
+    "difficulty": "Medium",
+    "description": "A spicy, earthy northeastern Thai curry  rich in herbs and strong local flavor.",
+    "picture": "https://img.freepik.com/free-photo/kaeng-luang-yellow-curry-with-shrimp-coconut-shoots-southern-thai-traditional-food_640221-266.jpg"
+   
+  },
+  {
+    "title": "Kaeng Hong",
+    "ingredients": "Pork or beef, dried chili, garlic, shallots, galangal, lemongrass, shrimp paste, fish sauce, water.",
+    "steps": "Pound curry paste.Stir-fry paste till fragrant.Add meat + water.Simmer till tender.",
+    "timetaken": "40 mins",
+    "difficulty": "Medium",
+    "description": "A deep, spicy northern curry  rich aroma, no coconut milk, full of chili heat.",
+    "picture": "https://thumbs.dreamstime.com/b/northern-thai-food-kaeng-khae-pork-northern-thai-food-kaeng-khae-pork-curry-made-mainly-vegetables-herbs-100933761.jpg"
+   
+  },
+  {
+    "title": "Kaeng Ngao Ngod",
+    "ingredients": "Minced pork, tomatoes, dried chili, garlic, shallots, shrimp paste, fish sauce, oil, water.",
+    "steps": "Pound chili, garlic, shallots into paste.Stir-fry paste till fragrant.Add pork + tomatoes.Add water, simmer till thick.",
+    "timetaken": "30 mins",
+    "difficulty": "Easy",
+    "description": "A mild, tangy northern curry  tomato-rich, slightly spicy, and hearty.",
+    "picture": "https://tse3.mm.bing.net/th/id/OIP.J87Gl3_COmJYJ1B10SG_jgHaJC?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Kaeng Lueang",
+    "ingredients": "Yellow curry paste+fish+vegetables",
+    "steps": "Boil water + curry paste + turmeric.Add lemongrass, lime leaves, chili.Add fish, simmer till cooked.Stir in coconut milk, season with fish sauce.",
+    "timetaken": "30 mins",
+    "difficulty": "Medium",
+    "description": "A vibrant, spicy southern Thai curry  yellow, aromatic, slightly sweet and tangy.",
+    "picture": "https://www.mythaicooking.com/wp-content/uploads/2019/06/Kaeng_Som_Goong.jpg"
+   
+  },
+  {
+    "title": "Kaeng Hang Le",
+    "ingredients": "Hang Lay curry paste+pork+ginger",
+    "steps": "Fry garlic, ginger, shallots, turmeric, chili.Add pork, sear.Add tamarind, water, simmer 45-60 mins.Season with fish sauce + sugar.",
+    "timetaken": "1 hr",
+    "difficulty": "Medium",
+    "description": "Rich, slightly sweet northern pork curry  tangy, aromatic, slow-cooked for depth.",
+    "picture": "https://tse1.mm.bing.net/th/id/OIP.6q4hI823vgPBGWNQai--mgHaJ4?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Kaeng Ho",
+    "ingredients": "Pork, bamboo shoots, garlic, shallots, dried chili, galangal, lemongrass, fish sauce, water.",
+    "steps": "Pound curry paste.Stir-fry paste till fragrant.Add pork + water, simmer.Add bamboo shoots, cook till tender.",
+    "timetaken": "40 mins",
+    "difficulty": "Medium",
+    "description": "A hearty northern curry  spicy, savory, with tender pork and crisp bamboo shoots.",
+    "picture": "https://lannainfo.library.cmu.ac.th/en_lannafood/images/lanna_food/fsmall-090429164716.jpg"
+   
+  },
+  {
+    "title": "Kai Hor Bai Toey",
+    "ingredients": "Chicken+pandan leaves+soy sauce",
+    "steps": "Marinate chicken with garlic, soy, fish sauce, sugar, pepper.Wrap each piece in pandan leaf.Deep-fry or steam till cooked.",
+    "timetaken": "30-35 mins",
+    "difficulty": "Easy",
+    "description": "Fragrant, juicy chicken wrapped in pandan  subtly sweet, aromatic, perfect snack or appetizer.",
+    "picture": "https://school-of-wok.s3.eu-west-2.amazonaws.com/recipes/show_images/42468eb0b7fee28cd675dc53f805e8c7.jpg"
+   
+  },
+  {
+    "title": "Kha Kai Super",
+    "ingredients": "Chicken feet+herbs+spices",
+    "steps": "Boil water + galangal, lemongrass, lime leaves.Add chicken + mushrooms.Season with fish sauce, lime juice, chili.Simmer till cooked.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Easy",
+    "description": "Spicy, tangy chicken soup  bold Thai flavors, fresh herbs, and warming heat.",
+    "picture": "https://tse4.mm.bing.net/th/id/OIP.JmF80nUc4QGPDhSkQLrBSQHaE7?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Kai Jeow",
+    "ingredients": "Eggs+oil+fish sauce",
+    "steps": "Beat eggs + fish sauce.Heat oil, pour eggs in.Fry till golden, fold and serve.",
+    "timetaken": "5-10 mins",
+    "difficulty": "Easy",
+    "description": "Fluffy, savory Thai-style omelette  simple, quick, and delicious.",
+    "picture": "https://tse1.mm.bing.net/th/id/OIP.7RRGP0z20yhAqBNX_OoRsgHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Kai Dao",
+    "ingredients": "Eggs+oil",
+    "steps": "Heat oil in pan.Crack egg into hot oil.Fry till edges crispy or yolk preferred doneness.",
+    "timetaken": "5 mins",
+    "difficulty": "Very Easy",
+    "description": "Crispy-edged fried egg  simple, golden, perfect with rice.",
+    "picture": "https://tse3.mm.bing.net/th/id/OIP.vA_Zvqbos8usutz2A5mPfQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Kai Nam",
+    "ingredients": "Eggs+broth+vegetables",
+    "steps": "Boil water.Gently add egg.Cook 4-6 mins (soft) or 8-10 mins (hard).Remove, serve.",
+    "timetaken": "5-10 mins",
+    "difficulty": "Very Easy",
+    "description": "Soft or hard poached egg  simple, healthy, and versatile.",
+    "picture": "https://www.sgethai.com/wp-content/uploads/2021/09/31.jpg"
+   
+  },
+  {
+    "title": "Kai Yat Sai",
+    "ingredients": "Eggs+vegetables+meat",
+    "steps": "Cook filling: meat + veggies + fish sauce.Beat eggs, pour into pan.Add filling, fold omelette.Cook till golden.",
+    "timetaken": "15-20 mins",
+    "difficulty": "Medium",
+    "description": "Savory omelette stuffed with seasoned meat and veggies  hearty and flavorful.",
+    "picture": "https://th.bing.com/th/id/R.57bb437689fff2d71d6ba89a06447163?rik=ooV8FNilYwrZDg&pid=ImgRaw&r=0"
+   
+  },
+  {
+    "title": "Kai Look Kheuy",
+    "ingredients": "Ground chicken, garlic, coriander root, fish sauce, pepper, egg, oil",
+    "steps": "Mix chicken + garlic + coriander + egg + seasonings. Form small balls. Deep-fry or pan-fry until golden.",
+    "timetaken": "20-25 mins",
+    "difficulty": "Easy",
+    "description": "Crispy outside, tender inside chicken meatballs  savory, aromatic, perfect snack or appetizer. ",
+    "picture": "https://tse3.mm.bing.net/th/id/OIP.lAzDRV-sp0DOTXpE_867RwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Kai Look Kheuy",
+    "ingredients": "Ground chicken, garlic, coriander root, fish sauce, pepper, egg, oil",
+    "steps": "Mix chicken + garlic + coriander + egg + seasonings. Form small balls. Deep-fry or pan-fry until golden.",
+    "timetaken": "20-25 mins",
+    "difficulty": "Easy",
+    "description": "Crispy outside, tender inside chicken meatballs  savory, aromatic, perfect snack or appetizer. ",
+    "picture": "https://tse3.mm.bing.net/th/id/OIP.lAzDRV-sp0DOTXpE_867RwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Kua Kling",
+    "ingredients": "Ground or sliced pork/beef, dried chili, garlic, shallots, turmeric, kaffir lime leaves, fish sauce, oil",
+    "steps": "Pound chili, garlic, shallots, turmeric. Stir-fry paste till fragrant. Add meat + fish sauce. Fry till dry and aromatic.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Medium",
+    "description": "Spicy southern Thai stir-fry  bold, dry, intensely flavorful with aromatic herbs. ",
+    "picture": "https://tse2.mm.bing.net/th/id/OIP.XT5LMcTpTrHDoxABlQiJaAHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Ngob",
+    "ingredients": "Fish, chili, garlic, shallots, galangal, lemongrass, kaffir lime leaves, fish sauce, oil",
+    "steps": "Crush chili, garlic, shallots. Stir-fry with galangal, lemongrass. Add fish + fish sauce. Cook until done.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Medium",
+    "description": "Spicy northern Thai curry with tender fish and aromatic herbs.",
+    "picture": "https://img.kapook.com/u/pirawan/Cooking1/streamed-fish-pudding.jpg"
+   
+  },
+  {
+    "title": "Cho Phak Kat",
+    "ingredients": "Mixed vegetables (cabbage, carrots, long beans), garlic, chili, oyster sauce, soy sauce, oil",
+    "steps": "Stir-fry garlic + chili till fragrant. Add vegetables. Season with oyster sauce and soy sauce. Cook until tender-crisp.",
+    "timetaken": "10-15 mins",
+    "difficulty": "Easy",
+    "description": "Quick, savory stir-fried mixed vegetables  simple, healthy, and flavorful.",
+    "picture": "https://lannainfo.library.cmu.ac.th/en_lannafood/images/lanna_food/fsmall-090430142727.jpg"
+   
+  },
+  {
+    "title": "Cho Hraeng",
+    "ingredients": "Fresh herbs (lemongrass, galangal, kaffir lime leaves), chili, garlic, shallots, fish sauce, oil",
+    "steps": "Pound herbs, chili, garlic, shallots. Stir-fry paste till fragrant. Add seasonings. Cook briefly.",
+    "timetaken": "15-20 mins",
+    "difficulty": "Medium",
+    "description": "Fragrant northern Thai stir-fry  aromatic, spicy, and herb-forward.",
+    "picture": "https://static.thairath.co.th/media/Dtbezn3nNUxytg04agCxz3X5mgMISDGWbj6ADE9lEfNPJz.jpg"
+   
+  },
+  {
+    "title": "Jub Chai",
+    "ingredients": "Mixed vegetables (cabbage, carrots, mushrooms), garlic, soy sauce, oyster sauce, oil",
+    "steps": "Stir-fry garlic till fragrant. Add vegetables. Season with soy and oyster sauce. Cook until tender-crisp.",
+    "timetaken": "10-15 mins",
+    "difficulty": "Easy",
+    "description": "Simple, savory stir-fried vegetables  healthy and flavorful.",
+    "picture": "https://thumbs.dreamstime.com/b/chinese-vegetable-stew-thai-call-jub-chai-243780996.jpg"
+   
+  },
+  {
+    "title": "Chu Chi",
+    "ingredients": "Fish or shrimp, red curry paste, coconut milk, kaffir lime leaves, fish sauce, sugar",
+    "steps": "Stir-fry curry paste. Add coconut milk, fish, lime leaves. Simmer till cooked.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Medium",
+    "description": "Rich, creamy Thai red curry with aromatic herbs.",
+    "picture": "https://th.bing.com/th/id/R.ea6c965f1ea5af118a1258c67fd94af4?rik=Ipt4CXRIHB6Lmw&pid=ImgRaw&r=0"
+   
+  },
+  {
+    "title": "Sup Khreung Nai",
+    "ingredients": "Chicken or pork, garlic, lemongrass, galangal, kaffir lime leaves, fish sauce, water",
+    "steps": "Boil water + herbs. Add meat, simmer until cooked. Season with fish sauce.",
+    "timetaken": "20-25 mins",
+    "difficulty": "Easy",
+    "description": "Light, aromatic Thai clear soup.",
+    "picture": "https://img-global.cpcdn.com/recipes/95858fbf7dbf6b1d/680x781cq80/%E0%B8%A3%E0%B8%9B-%E0%B8%AB%E0%B8%A5%E0%B8%81-%E0%B8%82%E0%B8%AD%E0%B8%87-%E0%B8%AA%E0%B8%95%E0%B8%A3-%E0%B8%95%E0%B8%A1%E0%B9%81%E0%B8%8B%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B8%A1.jpg"
+   
+  },
+  {
+    "title": "Sup Singapore",
+    "ingredients": "Chicken, shrimp, vegetables, garlic, ginger, soy sauce, water",
+    "steps": "Boil water + ginger/garlic. Add meat + vegetables. Season with soy sauce.",
+    "timetaken": "20-25 mins",
+    "difficulty": "Easy",
+    "description": "Light, flavorful Thai-style clear soup with meat and veggies.",
+    "picture": "https://thaifootprint.com/wp-content/uploads/2017/08/P1450209-1024x684.jpg"
+   
+  },
+  {
+    "title": "San Mo",
+    "ingredients": "Minced pork, garlic, chili, lime juice, fish sauce, sugar",
+    "steps": "Mix all ingredients. Shape into small balls. Steam or pan-fry until cooked.",
+    "timetaken": "20-25 mins",
+    "difficulty": "Medium",
+    "description": "Spicy-sour pork meatballs  bold flavor, great appetizer.",
+    "picture": "https://img.wongnai.com/p/400x0/2020/05/18/0ba31691d7894b138680fcfe736b98d5.jpg"
+   
+  },
+  {
+    "title": "Tom Kati",
+    "ingredients": "Coconut milk, galangal, chicken, lemongrass, kaffir lime leaves, chili, fish sauce, lime juice",
+    "steps": "Boil coconut milk + herbs. Add chicken. Simmer. Season with fish sauce + lime juice.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Medium",
+    "description": "Creamy coconut-based soup  rich, aromatic, mildly spicy.",
+    "picture": "https://tse2.mm.bing.net/th/id/OIP.pStxD_QObMcR-HHvxGeh0wHaFj?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Tom Kha Kai",
+    "ingredients": "Chicken, galangal, lemongrass, kaffir lime leaves, mushrooms, chili, fish sauce, lime juice, coconut milk",
+    "steps": "Boil herbs in coconut milk. Add chicken + mushrooms. Simmer. Season with fish sauce + lime juice.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Medium",
+    "description": "Creamy, tangy, slightly spicy Thai chicken soup.",
+    "picture": "https://hot-thai-kitchen.com/wp-content/uploads/2014/06/Tom-kha-gai-new-sq.jpg"
+   
+  },
+  {
+    "title": "Tom Khreung Nai Moo",
+    "ingredients": "Pork, galangal, lemongrass, garlic, kaffir lime leaves, chili, fish sauce, water",
+    "steps": "Boil water + herbs. Add pork. Simmer until tender. Season with fish sauce.",
+    "timetaken": "20-25 mins",
+    "difficulty": "Easy",
+    "description": "Aromatic Thai clear soup with pork and fresh herbs.",
+    "picture": "https://assets.unileversolutions.com/recipes-v2/117750.jpg"
+   
+  },
+  {
+    "title": "Tom Kloang",
+    "ingredients": "Fish, tamarind, galangal, lemongrass, chili, garlic, fish sauce, water",
+    "steps": "Boil water + herbs. Add fish + tamarind. Simmer till cooked.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Medium",
+    "description": "Sour and spicy fish soup  tangy, bold Thai flavors.",
+    "picture": "https://img.wongnai.com/p/1920x0/2020/02/24/c834fb8ad720468580139f319c598154.jpg"
+   
+  },
+  {
+    "title": "Tom Jiw",
+    "ingredients": "Beef or pork, galangal, lemongrass, chili, kaffir lime leaves, garlic, fish sauce, water",
+    "steps": "Boil water + herbs. Add meat, simmer until tender. Season with fish sauce.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Medium",
+    "description": "Light, spicy Thai soup  aromatic and savory.",
+    "picture": "https://tse3.mm.bing.net/th/id/OIP.ZGE41-QbgWoTDcXc2PyjrQHaEj?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Tom Saep",
+    "ingredients": "Pork or beef, lemongrass, galangal, kaffir lime leaves, chili, lime juice, fish sauce, water",
+    "steps": "Boil water + herbs. Add meat. Simmer. Season with lime juice + fish sauce.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Medium",
+    "description": "Spicy, sour northeastern Thai soup  bold and tangy.",
+    "picture": "https://tse1.mm.bing.net/th/id/OIP.9HXnPgU5lMdZHtFxCrwRRwHaGd?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Tom Pret",
+    "ingredients": "Pork, galangal, lemongrass, chili, garlic, kaffir lime leaves, fish sauce, water",
+    "steps": "Boil herbs in water. Add pork. Simmer till tender. Season with fish sauce.",
+    "timetaken": "20-25 mins",
+    "difficulty": "Easy",
+    "description": "Spicy Thai soup with pork  aromatic and flavorful.",
+    "picture": "https://i.ytimg.com/vi/brgaXiSeaBQ/maxresdefault.jpg"
+   
+  },
+  {
+    "title": "Tom Yam",
+    "ingredients": "Shrimp or chicken, lemongrass, galangal, kaffir lime leaves, chili, lime juice, fish sauce, mushrooms, water",
+    "steps": "Boil herbs. Add meat + mushrooms. Simmer. Season with lime juice + fish sauce.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Medium",
+    "description": "Classic Thai hot and sour soup  bold, tangy, and spicy.",
+    "picture": "https://tse4.mm.bing.net/th/id/OIP.A-u8enRhk3PMOhsPq944FgHaE7?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Tom Som",
+    "ingredients": "Fish, tamarind, chili, garlic, galangal, lemongrass, kaffir lime leaves, water, fish sauce",
+    "steps": "Boil water + herbs. Add fish + tamarind. Simmer. Season with fish sauce.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Medium",
+    "description": "Sour fish soup  tangy, spicy, and aromatic.",
+    "picture": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2019/03/06/73b8c7a88611479ca5bfe806b36ba2e7_Tom-som.jpg"
+   
+  },
+  {
+    "title": "Tupa Sutong",
+    "ingredients": "Fish, turmeric, garlic, shallots, chili, lemongrass, fish sauce, oil",
+    "steps": "Stir-fry herbs + chili. Add fish + turmeric. Cook till done.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Medium",
+    "description": "Spicy, turmeric-flavored fish dish  northern Thai style.",
+    "picture": "https://www.lovethailand.org/images/banner/content/lovethailand_banner_20230410022402.jpg"
+   
+  },
+  {
+    "title": "Tai Pla",
+    "ingredients": "Fish, fermented fish sauce, chili, garlic, shallots, turmeric, vegetables, oil",
+    "steps": "Stir-fry chili + garlic + shallots. Add fish + tai pla sauce + vegetables. Cook till done.",
+    "timetaken": "30-35 mins",
+    "difficulty": "Medium",
+    "description": "Northern Thai spicy fish curry  strong, pungent, very flavorful.",
+    "picture": "https://happyspicyhour.com/wp-content/uploads/2022/07/Kaeng-Tai-Pla.jpeg"
+   
+  },
+  {
+    "title": "Tod Mun",
+    "ingredients": "Fish paste, red curry paste, egg, kaffir lime leaves, oil",
+    "steps": "Mix fish paste + curry paste + egg. Shape into cakes. Deep-fry until golden.",
+    "timetaken": "20-25 mins",
+    "difficulty": "Easy",
+    "description": "Thai fish cakes  crispy outside, flavorful inside, aromatic.",
+    "picture": "https://th.bing.com/th/id/R.c983db3a4c5296f2aefa16b6347066f0?rik=4jDqTlDqvcu86w&pid=ImgRaw&r=0"
+   
+  },
+  {
+    "title": "Nam Ngiao",
+    "ingredients": "Pork or beef, tomatoes, dried chili, rice noodles, garlic, fermented soybean, fish sauce",
+    "steps": "Boil water + pork + tomatoes. Add noodles, seasonings. Simmer till cooked.",
+    "timetaken": "30-35 mins",
+    "difficulty": "Medium",
+    "description": "Northern Thai spicy noodle soup  tangy, savory, hearty.",
+    "picture": "https://tse1.mm.bing.net/th/id/OIP.V6_Au3b4al3D1J2aGv9NUAHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Nua Nang Phao",
+    "ingredients": "Beef, garlic, chili, lemongrass, galangal, fish sauce, oil",
+    "steps": "Stir-fry garlic + chili. Add beef + herbs. Cook till tender.",
+    "timetaken": "20-25 mins",
+    "difficulty": "Medium",
+    "description": "Spicy stir-fried beef with aromatic herbs  northern Thai style.",
+    "picture": "https://mpics.mgronline.com/pics/Images/566000011646806.JPEG"
+   
+  },
+  {
+    "title": "Bo Toa",
+    "ingredients": "Minced pork, chili, garlic, kaffir lime leaves, fish sauce, oil",
+    "steps": "Stir-fry garlic + chili. Add pork + lime leaves. Cook till dry and fragrant.",
+    "timetaken": "20-25 mins",
+    "difficulty": "Medium",
+    "description": "Spicy northern Thai minced pork stir-fry  aromatic and flavorful.",
+    "picture": "https://www.unileverfoodsolutions.co.th/dam/global-ufs/mcos/SEA/calcmenu/recipes/TH-recipes/makro-event/%E0%B8%A5%E0%B8%B2%E0%B8%9A%E0%B8%84%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%88%E0%B8%B5%E0%B9%88_header.jpg"
+   
+  },
+  {
+    "title": "Pla Kok",
+    "ingredients": "Fish, garlic, turmeric, chili, lemongrass, fish sauce, oil",
+    "steps": "Marinate fish + turmeric + garlic. Pan-fry with herbs + chili until done.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Medium",
+    "description": "Spicy fried fish  northern Thai style, aromatic and flavorful.",
+    "picture": "https://i.ytimg.com/vi/yZwQIgeNIBI/sddefault.jpg"
+   
+  },
+  {
+    "title": "Poo Ja",
+    "ingredients": "Crab, garlic, curry powder, chili, onion, fish sauce, oil",
+    "steps": "Stir-fry garlic + onion + chili. Add crab + curry powder. Cook till done.",
+    "timetaken": "25-30 mins",
+    "difficulty": "Medium",
+    "description": "Thai-style stir-fried crab with aromatic spices  rich and savory.",
+    "picture": "https://www.easycookingmenu.com/media/k2/items/cache/92c3523de61d06eebdc515f2babb64b9_XL.jpg"
+   
+  },
+  {
+    "title": "Phat Kaphrao",
+    "ingredients": "Minced pork or chicken, garlic, chili, holy basil, fish sauce, oil",
+    "steps": "Stir-fry garlic + chili. Add meat + fish sauce. Stir in basil. Cook till done.",
+    "timetaken": "15-20 mins",
+    "difficulty": "Easy",
+    "description": "Classic Thai stir-fry with holy basil  spicy, savory, and fragrant.",
+    "picture": "https://th.bing.com/th/id/R.b5ced06d4906e7ce95b69191cbc05f3c?rik=L8gI9ZcnMV7ZEQ&pid=ImgRaw&r=0"
+   
+  },
+  {
+    "title": "Phat Khing",
+    "ingredients": "Chicken or beef, ginger, garlic, onion, soy sauce, oil",
+    "steps": "Stir-fry garlic + ginger. Add meat + onion + soy sauce. Cook till done.",
+    "timetaken": "15-20 mins",
+    "difficulty": "Easy",
+    "description": "Quick Thai stir-fry with ginger  savory and aromatic.",
+    "picture": "https://tse1.mm.bing.net/th/id/OIP.Mmu9yvG1O7NcD9VVKebmLQHaFj?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Phat Cha",
+    "ingredients": "Seafood or meat, garlic, chili, kaffir lime leaves, lemongrass, fish sauce, oil",
+    "steps": "Stir-fry garlic + chili + herbs. Add meat/seafood + fish sauce. Cook till done.",
+    "timetaken": "20-25 mins",
+    "difficulty": "Medium",
+    "description": "Spicy stir-fry with bold northern Thai flavors.",
+    "picture": "https://s359.kapook.com/pagebuilder/9d7efd62-0186-494b-9e6e-f487ba1e6f6c.jpg"
+   
+  },
+  {
+    "title": "Phat Priao Wan",
+    "ingredients": "Chicken, pork, or shrimp, garlic, onion, bell pepper, sweet and sour sauce, oil",
+    "steps": "Stir-fry garlic + onion. Add meat + sauce + vegetables. Cook till coated.",
+    "timetaken": "15-20 mins",
+    "difficulty": "Easy",
+    "description": "Thai-style sweet and sour stir-fry  balanced, tangy, and savory.",
+    "picture": "https://tse2.mm.bing.net/th/id/OIP.7NJk1ixJWS6BLjRQIP1rYQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+   
+  },
+  {
+    "title": "Phat Phong Kari",
+    "ingredients": "Chicken, shrimp, onion, curry powder, coconut milk, fish sauce, oil",
+    "steps": "Stir-fry onion + curry powder. Add meat/seafood + coconut milk. Simmer. Season with fish sauce.",
+    "timetaken": "20-25 mins",
+    "difficulty": "Medium",
+    "description": "Creamy Thai yellow curry stir-fry  mildly spicy, fragrant, and rich.",
+    "picture": "https://i0.wp.com/givemethisday.com/wp-content/uploads/2021/06/088D5C90-6B65-480A-9509-851502819C39_1_201_a.jpeg?resize=768%2C512&ssl=1"
+   
+  },
+  {
+    "title": "Moo Hong",
+    "ingredients": "Pork belly + soy sauce + garlic + pepper + palm sugar",
+    "steps": "1. Brown pork belly in a pot.\n2. Add soy sauce, sugar, and garlic.\n3. Stew slowly until tender.",
+    "timetaken": "45 minutes",
+    "difficulty": "medium",
+    "description": "Moo Hong is a famous southern Thai braised pork belly dish, simmered with soy sauce and spices until rich, tender, and flavorful.",
+    "picture": "https://hungryinthailand.com/wp-content/uploads/2024/02/moo-hong-thai-pork-belly-stew.webp"
+   
+  },
+  {
+    "title": "Om",
+    "ingredients": "Beef + herbs + lemongrass + galangal + chili + vegetables",
+    "steps": "1. Boil meat with lemongrass and galangal.\n2. Add vegetables and chili paste.\n3. Simmer until flavors blend.",
+    "timetaken": "60 minutes",
+    "difficulty": "hard",
+    "description": "Om is a rustic Thai stew made with herbs, meat, and vegetables, especially popular in northeastern cuisine for its earthy herbal flavor.",
+    "picture": "https://s359.kapook.com/pagebuilder/1740a43c-314b-4436-a746-5c159f4f8451.jpg"
+   
+  },
+  {
+    "title": "Oo",
+    "ingredients": "Fish + garlic + turmeric + chili + lemongrass",
+    "steps": "1. Heat oil and fry chili paste.\n2. Add minced meat and herbs.\n3. Stir-fry until cooked and serve with rice.",
+    "timetaken": "20 minutes",
+    "difficulty": "easy",
+    "description": "Oo is a simple Thai countryside dish made with local herbs and vegetables, lightly seasoned for a natural and fresh taste.",
+    "picture": "https://www.saveur.com/uploads/2019/02/08/7P73X73QE3ZLITZJ2Z3MGEFQRM.jpg?format=auto&optimize=high&width=1440"
+   
+  },
+  {
+    "title": "Aeb",
+    "ingredients": "Fish + red curry paste + coconut milk + basil + banana leaves",
+    "steps": "1. Mix fish with curry paste and herbs.\n2. Wrap in banana leaf and grill over low heat.\n3. Serve warm with sticky rice.",
+    "timetaken": "35 minutes",
+    "difficulty": "medium",
+    "description": "Aeb is a northern Thai specialty of fish or pork mixed with curry paste, wrapped in banana leaves, and grilled for smoky, spicy flavor.",
+    "picture": "https://migrationology.smugmug.com/Thai-Recipes/i-dzGV6Sk/0/X2/aeb_recipe-23-X2.jpg"
+   
+  },
+  {
+    "title": "Gruay Thip",
+    "ingredients": "Banana + coconut milk + palm sugar + salt",
+    "steps": "1. Mix sliced banana with coconut milk and sugar.\n2. Heat gently until slightly thick.\n3. Serve warm or chilled.",
+    "timetaken": "10 minutes",
+    "difficulty": "easy",
+    "description": "Gruay Thip is a traditional Thai dessert made from bananas cooked in sweet coconut syrup, offering a soft texture and tropical flavor.",
+    "picture": "https://hungryinthailand.com/wp-content/uploads/2022/10/banana-in-coconut-milk-768x768.webp"
+   
+  },
+  {
+    "title": "Krob Kem",
+    "ingredients": "Rice flour+fish sauce+herbs",
+    "steps": "1. Mix rice flour with water and fish sauce.\n2. Deep-fry until golden and crispy.\n3. Sprinkle with fried herbs before serving.",
+    "timetaken": "30 minutes",
+    "difficulty": "medium",
+    "description": "Krob Kem is a crispy Thai snack made from rice flour flavored with fish sauce and herbs, giving it a savory and aromatic crunch.",
+    "picture": "https://www.globalfoodproduct.com/wp-content/uploads/2024/06/krobkem.jpg"
+   
+  },
+  {
+    "title": "Kratong Thong",
+    "ingredients": "Rice flour+fish+vegetables",
+    "steps": "1. Fry rice flour cups until crisp.\n2. Fill with stir-fried minced fish and vegetables.\n3. Garnish with coriander and chili.",
+    "timetaken": "35 minutes",
+    "difficulty": "medium",
+    "description": "Kratong Thong is a bite-sized Thai appetizer of golden pastry cups filled with minced chicken and vegetables, both crispy and flavorful.",
+    "picture": "https://m.media-amazon.com/images/I/71pT5--ghbL._AC_UF894,1000_QL80_.jpg"
+   
+  },
+  {
+    "title": "Krabong",
+    "ingredients": "Pumpkin + rice flour + egg + salt + frying oil",
+    "steps": "1. Mix pumpkin with flour and coconut milk.\n2. Coat evenly and deep-fry until golden.\n3. Drain oil and serve hot.",
+    "timetaken": "20 minutes",
+    "difficulty": "easy",
+    "description": "Krabong is a crispy Thai fritter made by deep-frying vegetables in rice flour batter, popular as a street food snack.",
+    "picture": "https://f.ptcdn.info/247/070/000/qdt74eia30LE9IxPiie-o.jpg"
+   
+  },
+  {
+    "title": "Kuay Teow Lord",
+    "ingredients": "Rice noodles+soy sauce+herbs",
+    "steps": "1. Steam rice noodle sheets until soft.\n2. Fill with pork and herbs, then roll tightly.\n3. Serve with sweet soy sauce.",
+    "timetaken": "28 minutes",
+    "difficulty": "easy",
+    "description": "Kuay Teow Lord is a soft rice noodle roll stir-fried with soy sauce, herbs, and pork, offering a smooth and savory flavor.",
+    "picture": "https://www.thaizer.com/wp-content/uploads/2011/06/1.jpg"
+   
+  },
+  {
+    "title": "Kari Puff",
+    "ingredients": "Flour+curry powder+potato",
+    "steps": "1. Make filling with curry powder, potato, and onion.\n2. Wrap in pastry and seal edges.\n3. Deep-fry until golden brown.",
+    "timetaken": "30 minutes",
+    "difficulty": "easy",
+    "description": "Kari Puff is a flaky pastry filled with curried potatoes and spices, combining a mild curry flavor with a crispy texture.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv4CdQ6geFn9X_ILd5pvNjWatm1n9WQf3Jaw&s"
+   
+  },
+  {
+    "title": "Karawek Sod Si",
+    "ingredients": "Rice flour + coconut milk + pandan juice + sugar",
+    "steps": "1. Boil taro until soft.\n2. Mix with coconut milk and sugar.\n3. Simmer until creamy and fragrant.",
+    "timetaken": "32 minutes",
+    "difficulty": "medium",
+    "description": "Karawek Sod Si is a rare Thai dessert known for its colorful layers and floral aroma, often served during festive occasions.",
+    "picture": "https://media.timeout.com/images/103784799/750/562/image.jpg"
+   
+  },
+  {
+    "title": "Kung Ten",
+    "ingredients": "Fresh shrimp + chili + lime juice + fish sauce + mint",
+    "steps": "1. Mix live shrimp with lime juice and chili.\n2. Add lemongrass, mint, and fish sauce.\n3. Serve immediately for freshness.",
+    "timetaken": "25 minutes",
+    "difficulty": "medium",
+    "description": "Kung Ten, or dancing shrimp, is a spicy Thai salad made with fresh shrimp, chili, lime, and herbs, famous for its zesty flavor.",
+    "picture": "https://cdn.tasteatlas.com/images/dishes/f41b922c6be346069c6cce1c97172f78.jpg?w=600"
+   
+  },
+  {
+    "title": "Ko Kae",
+    "ingredients": "Peanuts + sugar + coconut milk + salt",
+    "steps": "1. Roast peanuts until golden.\n2. Coat with melted sugar and coconut milk.\n3. Let cool before serving.",
+    "timetaken": "18 minutes",
+    "difficulty": "easy",
+    "description": "Ko Kae is a fun Thai snack of crispy peanuts coated with a savory-sweet outer layer, a popular street and store-bought treat.",
+    "picture": "https://3auntiesthaimarket.com/cdn/shop/files/cocnut_800x.jpg?v=1703797681"
+   
+  },
+  {
+    "title": "Kai Sam Yang",
+    "ingredients": "Chicken + chili + lime juice + fish sauce + coriander",
+    "steps": "1. Fry chicken until cooked.\n2. Toss with chili paste, sugar, and lime juice.\n3. Serve with fresh herbs.",
+    "timetaken": "30 minutes",
+    "difficulty": "medium",
+    "description": "Kai Sam Yang is a spicy Thai chicken salad made with herbs and chili, offering a balance of sour, spicy, and savory tastes.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-Rtzn0m7UdisQdsfb5DpeQBYYjaJRXMAuA&s"
+   
+  },
+  {
+    "title": "Kanom Kui Chai",
+    "ingredients": "Flour+chives+soy sauce",
+    "steps": "1. Mix flour with water to make dough and fill with chopped chives.\n2. Steam until soft and cooked through.\n3. Serve with sweet soy dipping sauce.",
+    "timetaken": "25 minutes",
+    "difficulty": "easy",
+    "description": "Kanom Kui Chai is a chewy chive dumpling made from flour and filled with seasoned chives, usually served with soy dipping sauce.",
+    "picture": "https://www.shutterstock.com/image-photo/thailand-street-food-call-kanom-260nw-1473440720.jpg"
+   
+  },
+  {
+    "title": "Kanom Kheng",
+    "ingredients": "Glutinous rice flour+sugar",
+    "steps": "1. Mix glutinous rice flour with sugar and water.\n2. Shape into small pieces and steam until translucent.\n3. Let cool and coat with shredded coconut.",
+    "timetaken": "20 minutes",
+    "difficulty": "easy",
+    "description": "Kanom Kheng is a simple Thai dessert made from glutinous rice flour and sugar, soft and mildly sweet.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL5IIVBDPfywryyLrUTxPlx2mhO2qe0qFAQ&s"
+   
+  },
+  {
+    "title": "Kanom Jeeb",
+    "ingredients": "Flour+pork+herbs",
+    "steps": "1. Fill dumpling wrappers with minced pork and herbs.\n2. Steam until fully cooked.\n3. Serve with soy and chili sauce.",
+    "timetaken": "22 minutes",
+    "difficulty": "easy",
+    "description": "Kanom Jeeb is the Thai version of dim sum dumplings, filled with minced pork and herbs, steamed to perfection.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcZXa1P_b2qXVzgLoH5_cFsLUnPSP4iBlFg&s"
+   
+  },
+  {
+    "title": "Kanom Tokyo",
+    "ingredients": "Flour+custard+sugar",
+    "steps": "1. Pour thin batter on hot pan and spread evenly.\n2. Add custard or sausage filling in the center.\n3. Roll up and serve warm.",
+    "timetaken": "18 minutes",
+    "difficulty": "easy",
+    "description": "Kanom Tokyo is a sweet Thai street snack with thin pancakes rolled around custard or sausage filling.",
+    "picture": "https://thesmartlocal.co.th/wp-content/uploads/2023/08/khanom-tokyo-1.jpg"
+   
+  },
+  {
+    "title": "Kanom Pang Ka Kai",
+    "ingredients": "Flour+sugar+butter",
+    "steps": "1. Mix flour, sugar, and butter to form dough.\n2. Bake until golden brown.\n3. Brush with condensed milk before serving.",
+    "timetaken": "25 minutes",
+    "difficulty": "easy",
+    "description": "Kanom Pang Ka Kai is a Thai-style sweet bread made with butter and sugar, often enjoyed as a breakfast or snack.",
+    "picture": "https://www.cookingwithnart.com/wp-content/uploads/2024/05/Crispy-Thai-Pork-Toast-Khanom-Pang-Na-Moo.jpg"
+   
+  },
+  {
+    "title": "Kanom Pang Na Moo",
+    "ingredients": "Pork+flour+herbs",
+    "steps": "1. Spread minced pork mixture on bread slices.\n2. Fry until crispy and golden.\n3. Serve with cucumber relish.",
+    "timetaken": "28 minutes",
+    "difficulty": "medium",
+    "description": "Kanom Pang Na Moo is a crispy fried bread topped with seasoned minced pork, served with cucumber relish.",
+    "picture": "https://www.ajinomoto.co.th//storage/photos/shares/Recipe/2023/marlot2/Lot5/07kanompangnamoo/64269da0e5c6a.jpg"
+   
+  },
+  {
+    "title": "Kanom Pak Kad",
+    "ingredients": "Rice flour+vegetables+soy sauce",
+    "steps": "1. Mix rice flour with chopped vegetables and soy sauce.\n2. Steam until firm.\n3. Cut into small pieces and serve with soy sauce.",
+    "timetaken": "20 minutes",
+    "difficulty": "easy",
+    "description": "Kanom Pak Kad is a savory rice flour pancake filled with vegetables and soy sauce flavor, soft and aromatic.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3W-kIxn4_Ni6BQ_c_2M9oeWKdtust7ouyg&s"
+   
+  },
+  {
+    "title": "Kanom Puang Pratad",
+    "ingredients": "Rice flour + coconut milk + sugar + food coloring (for pattern)",
+    "steps": "1. Mix rice flour with coconut milk and sugar.\n2. Pour onto hot pan and cook until golden.\n3. Serve warm with shredded coconut.",
+    "timetaken": "30 minutes",
+    "difficulty": "hard",
+    "description": "Kanom Puang Pratad is a rare regional Thai dessert often prepared during temple festivals, known for its intricate design.",
+    "picture": "https://static.vecteezy.com/system/resources/previews/015/935/490/large_2x/thai-crispy-pancake-kanom-buang-it-is-a-street-food-in-thailand-that-is-easy-to-find-photo.JPG"
+   
+  },
+  {
+    "title": "Khao Kriap Kung",
+    "ingredients": "Shrimp paste+flour+herbs",
+    "steps": "1. Mix shrimp paste with flour and herbs.\n2. Steam mixture until firm, then slice thinly.\n3. Sun-dry and deep-fry until crispy.",
+    "timetaken": "25 minutes",
+    "difficulty": "easy",
+    "description": "Khao Kriap Kung is a crispy shrimp rice cracker made from shrimp paste and herbs, perfect as a light snack.",
+    "picture": "https://www.lovethailand.org/images/banner/content/lovethailand_banner_20251603162010.webp"
+   
+  },
+  {
+    "title": "Khao Kriap Pak Mo",
+    "ingredients": "Rice flour+pork+herbs",
+    "steps": "1. Pour thin rice flour batter on cloth over boiling water.\n2. Fill with pork and garlic mixture, then wrap.\n3. Serve with fried garlic and chili sauce.",
+    "timetaken": "28 minutes",
+    "difficulty": "easy",
+    "description": "Khao Kriap Pak Mo is a soft rice flour crepe stuffed with minced pork and herbs, offering a smooth texture and savory taste.",
+    "picture": "https://jackiem.com.au/wpinstall/wp-content/uploads/2015/10/Khao-Kriab-Pak-Moh.jpg"
+   
+  },
+  {
+    "title": "Khao Kriap Ya Na",
+    "ingredients": "Rice flour+vegetables+herbs",
+    "steps": "1. Steam rice flour batter into thin sheets.\n2. Wrap around stir-fried vegetables and herbs.\n3. Serve with sweet soy sauce.",
+    "timetaken": "30 minutes",
+    "difficulty": "medium",
+    "description": "Khao Kriap Ya Na is a soft and aromatic rice flour snack filled with vegetables and herbs, often enjoyed as a light street food.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSaWEtjL0GRu6UWn6XxAcBjXEyXTC5PVFbA&s"
+   
+  },
+  {
+    "title": "Khao Tom Bai Kapho",
+    "ingredients": "Glutinous rice+banana+coconut milk",
+    "steps": "1. Mix glutinous rice with coconut milk and banana.\n2. Wrap in banana leaf and tie tightly.\n3. Steam until rice is soft and fragrant.",
+    "timetaken": "45 minutes",
+    "difficulty": "medium",
+    "description": "Khao Tom Bai Kapho is a traditional Thai dessert made of sticky rice, banana, and coconut milk wrapped in banana leaves and steamed to perfection.",
+    "picture": "https://i.ytimg.com/vi/yVmqpZeb59Y/maxresdefault.jpg"
+   
+  },
+  {
+    "title": "Khao Tom Mat",
+    "ingredients": "Glutinous rice+banana+coconut milk",
+    "steps": "1. Combine sticky rice, banana, and coconut milk.\n2. Wrap in banana leaf and steam until cooked.\n3. Let cool before serving.",
+    "timetaken": "40 minutes",
+    "difficulty": "hard",
+    "description": "Khao Tom Mat is a sweet sticky rice parcel with banana and coconut milk, commonly offered during Thai festivals.",
+    "picture": "https://hungryinthailand.com/wp-content/uploads/2024/02/khao-tom-mud-768x1024.webp"
+   
+  },
+  {
+    "title": "Khao Tang Na Tang",
+    "ingredients": "Rice crackers+coconut milk+pork",
+    "steps": "1. Fry rice crackers until crisp.\n2. Make coconut dip with minced pork and coconut milk.\n3. Serve crackers with warm dip.",
+    "timetaken": "25 minutes",
+    "difficulty": "easy",
+    "description": "Khao Tang Na Tang is a crunchy rice cracker served with warm, creamy pork and coconut dip, combining sweet and salty flavors.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSEcLXzEL7y0EyKdNAF68-wzwzCzRPeR-UeQ&s"
+   
+  },
+  {
+    "title": "Khao Pan",
+    "ingredients": "Sticky rice + chili paste + herbs + minced fish + garlic",
+    "steps": "1. Fry herbs and chili paste until fragrant.\n2. Mix with cooked rice and stir well.\n3. Serve with fresh vegetables.",
+    "timetaken": "30 minutes",
+    "difficulty": "medium",
+    "description": "Khao Pan is a northern Thai rice dish made with herbs and chili paste, known for its earthy and spicy profile.",
+    "picture": "https://f.ptcdn.info/258/040/000/o2u7y5dmcW57i9Ekj4M-o.jpg"
+   
+  },
+  {
+    "title": "Khao Mao",
+    "ingredients": "Glutinous rice+banana+coconut milk",
+    "steps": "1. Mix young rice flakes with coconut milk and banana.\n2. Steam lightly until soft.\n3. Serve with grated coconut.",
+    "timetaken": "25 minutes",
+    "difficulty": "easy",
+    "description": "Khao Mao is a sweet Thai treat made from young green rice flakes mixed with banana and coconut milk, soft and chewy in texture.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrnmULiaQ1qMvpdmOBSRIN0XyeNsmVtYrqKg&s"
+   
+  },
+  {
+    "title": "Khao Ho Tod",
+    "ingredients": "Rice flour + coconut milk + sugar + roasted sesame seeds",
+    "steps": "1. Mix cooked rice with egg and coconut.\n2. Shape into patties and fry until golden.\n3. Serve warm with sugar syrup.",
+    "timetaken": "30 minutes",
+    "difficulty": "medium",
+    "description": "Khao Ho Tod is a crispy Thai rice snack seasoned with coconut and sugar, giving a light crunch and gentle sweetness.",
+    "picture": "https://hungryinthailand.com/wp-content/uploads/2024/01/nam-khao-tod-thai-crispy-rice-salad-768x576.webp"
+   
+  },
+  {
+    "title": "Khao Niao Ping",
+    "ingredients": "Glutinous rice+coconut milk",
+    "steps": "1. Mix sticky rice with coconut milk and sugar.\n2. Shape into balls and grill until slightly crisp.\n3. Serve warm or at room temperature.",
+    "timetaken": "20 minutes",
+    "difficulty": "easy",
+    "description": "Khao Niao Ping is grilled sticky rice mixed with coconut milk, slightly crispy on the outside and soft inside.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_eDusdSXp00nf9qEqbHxyUMjnbnvEO9Bbw&s"
+   
+  },
+  {
+    "title": "Kai Kwam",
+    "ingredients": "Eggs+herbs+spices",
+    "steps": "1. Beat eggs with herbs and chili.\n2. Fry until set and slightly crispy.\n3. Serve with rice and fresh vegetables.",
+    "timetaken": "22 minutes",
+    "difficulty": "easy",
+    "description": "Kai Kwam is a spiced egg dish cooked with Thai herbs and chili, offering a warm, aromatic, and mildly spicy flavor.",
+    "picture": "https://www.pholfoodmafia.com/wp-content/uploads/2018/12/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%95%E0%B9%89%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B8%B8%E0%B9%89%E0%B8%99-big-590x418.jpg"
+   
+  },
+  {
+    "title": "Khrong Khrang Krop",
+    "ingredients": "Rice flour+sugar+herbs",
+    "steps": "1. Mix rice flour, sugar, and herbs with water.\n2. Shape into small pieces and deep-fry until puffed.\n3. Cool and store in airtight container.",
+    "timetaken": "25 minutes",
+    "difficulty": "easy",
+    "description": "Khrong Khrang Krop is a crunchy Thai snack made from rice flour and sugar, lightly seasoned with herbs for a fragrant sweetness.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMJjVe35iGEOz8bOYYDVt10VBda-O15l3XA&s"
+   
+  },
+  {
+    "title": "Khang Khao Pueak",
+    "ingredients": "Taro+flour+sugar",
+    "steps": "1. Steam taro until soft, then mash well.\n2. Mix with flour and sugar to form dough.\n3. Shape and deep-fry until golden brown.",
+    "timetaken": "30 minutes",
+    "difficulty": "medium",
+    "description": "Khang Khao Pueak is a traditional Thai taro dessert made with taro, flour, and sugar. It has a crispy exterior and a soft, sweet inside, often enjoyed as a tea-time snack.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Tz5En3_Kudqkka7o86qTB6H7fStoDEVP2A&s"
+   
+  },
+  {
+    "title": "Kaep Moo",
+    "ingredients": "Pork skin+salt+spices",
+    "steps": "1. Boil pork skin until tender, then dry completely.\n2. Deep-fry in hot oil until puffed and crispy.\n3. Drain and sprinkle with salt or spices.",
+    "timetaken": "40 minutes",
+    "difficulty": "medium",
+    "description": "Kaep Moo is a Thai crispy pork skin snack seasoned with salt and spices. Its crunchy, flavorful, and commonly paired with spicy chili dips.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ09YEi6Z0OpFt51u2z2UA8Q0-6tFwhXICexQ&s"
+   
+  },
+  {
+    "title": "Cho Muang",
+    "ingredients": "Rice flour + butterfly pea + minced pork + coconut milk",
+    "steps": "1. Mix rice flour with butterfly pea juice for color.\n2. Fill with minced pork and herbs.\n3. Steam until translucent and serve with sweet chili sauce.",
+    "timetaken": "60 minutes",
+    "difficulty": "hard",
+    "description": "Cho Muang is a delicate Thai flower-shaped dumpling made from butterfly pea dough and filled with minced pork and herbs. Its aromatic and elegant, often served at special occasions.",
+    "picture": "https://hot-thai-kitchen.com/wp-content/uploads/2020/12/Chor-Muang-web.jpg"
+   
+  },
+  {
+    "title": "Chun Pia",
+    "ingredients": "Spring roll wrappers + pork + vegetables + garlic",
+    "steps": "1. Fill thin wrappers with vegetables and minced pork.\n2. Roll tightly and seal with flour paste.\n3. Deep-fry until golden and serve with sweet chili sauce.",
+    "timetaken": "25 minutes",
+    "difficulty": "easy",
+    "description": "Chun Pia is a Thai-style fried spring roll filled with pork and vegetables. Its crispy, savory, and served with sweet chili sauce.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSet31cwQpFgNnIzVETn8BrNGvpBNienN6Q&s"
+   
+  },
+  {
+    "title": "Salapao",
+    "ingredients": "Flour + pork + sugar + yeast",
+    "steps": "1. Fill dough with seasoned pork mixture.\n2. Steam until fluffy and fully cooked.\n3. Serve warm with soy sauce.",
+    "timetaken": "45 minutes",
+    "difficulty": "medium",
+    "description": "Salapao is a Thai steamed bun filled with sweet or savory pork. Its soft, fluffy, and a favorite breakfast treat.",
+    "picture": "https://cuisineatlas.com/wp-content/uploads/2025/07/salapao-thai-steamed-buns-filled-with-bbq-pork-o.png"
+   
+  },
+  {
+    "title": "Soup Asa Ren",
+    "ingredients": "Herbs + vegetables + egg + broth",
+    "steps": "1. Boil herbs and vegetables in broth.\n2. Add beaten egg while stirring gently.\n3. Simmer until egg sets and serve hot",
+    "timetaken": "20 minutes",
+    "difficulty": "easy",
+    "description": "Soup Asa Ren is a light Thai herb and egg soup with vegetables. Its fragrant, nutritious, and easy to prepare.",
+    "picture": "http://farm7.static.flickr.com/6177/6193476001_a916d42060_o.jpg"
+  },
+  {
+    "title": "Dok Kung",
+    "ingredients": "Shrimp + flour + garlic + chili",
+    "steps": "1. Mix minced shrimp with flour and seasonings.\n2. Shape into small flower-like pieces.\n3. Deep-fry until golden and serve with chili sauce.",
+    "timetaken": "30 minutes",
+    "difficulty": "medium",
+    "description": "Dok Kung is a Thai shrimp flower snack made with minced shrimp and flour, deep-fried until golden and crispy.",
+    "picture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/eb/34/96/caption.jpg?w=900&h=500&s=1"
+
+  },
+  {
+    "title": "Thung Thong",
+    "ingredients": "Flour wrappers + minced pork + vegetables + spring onion",
+    "steps": "1. Fill thin flour wrappers with minced pork and vegetables.\n2. Tie with spring onion and deep-fry until crisp.\n3. Serve hot with plum sauce.",
+    "timetaken": "35 minutes",
+    "difficulty": "medium",
+    "description": "Thung Thong is a Thai golden money bag appetizer filled with minced pork and vegetables, deep-fried until crisp and golden.",
+    "picture": "https://cdn.shopify.com/s/files/1/1498/3814/files/b13e1cad39e39d8633c8ad936a280afa_large.jpg?v=1580373989"
+  
+  },
+  {
+    "title": "Nam Nang",
+    "ingredients": "Coconut milk + agar powder + sugar",
+    "steps": "1. Mix coconut milk with agar powder and sugar.\n2. Pour into molds and chill until set.\n3. Serve cold as a refreshing snack.",
+    "timetaken": "20 minutes",
+    "difficulty": "easy",
+    "description": "Nam Nang is a Thai coconut jelly dessert made with coconut milk and agar. Its smooth, lightly sweet, and best served chilled.",
+    "picture": "https://static.thairath.co.th/media/4DQpjUtzLUwmJZZC2kFwBK3BSYpwgpoWhDclvG0ig0PP.jpg"
+
+  },
+  {
+    "title": "Pla Haeng Tang Mo",
+    "ingredients": "Dried fish + watermelon + shallots + chili",
+    "steps": "1. Shred dried fish and fry until crisp.\n2. Serve over chilled watermelon cubes.\n3. Sprinkle with fried shallots for extra flavor.",
+    "timetaken": "15 minutes",
+    "difficulty": "easy",
+    "description": "Pla Haeng Tang Mo is a Thai summer dish made from crispy dried fish and sweet watermelon, topped with fried shallots.",
+    "picture": "https://fahthaimag.com/wp-content/uploads/2024/10/Pla-Haeng-Tang-Mo.jpg"
+
+  },
+  {
+    "title": "Pan Sip",
+    "ingredients": "Flour + minced pork + garlic + pepper",
+    "steps": "1. Fill flour wrappers with minced pork or fish.\n2. Fold and seal edges tightly.\n3. Deep-fry until golden and cr",
+    "timetaken": "30 minutes",
+    "difficulty": "medium",
+    "description": "Pan Sip is a Thai fried dumpling filled with minced pork and herbs. Its golden, crispy, and served with a savory dip.",
+    "picture": "https://tarasmulticulturaltable.com/wp-content/uploads/2017/07/Pan-Sip-Nueng-Sai-Kai-Thai-Steamed-Dumplings-with-Chicken-Peanut-Filling-7-of-9-722x1024.jpg"
+    
+  },
+  {
+    "title": "Pa Thong Ko",
+    "ingredients": "Flour + sugar + yeast + oil",
+    "steps": "1. Mix flour, sugar, and yeast to make soft dough.\n2. Shape and fry until puffed and golden.\n3. Serve with sweet condensed milk or pandan custard.",
+    "timetaken": "40 minutes",
+    "difficulty": "medium",
+    "description": "Pa Thong Ko is a Thai fried donut made from sweet fermented dough. Its light, fluffy, and often eaten with pandan custard.",
+    "picture": "https://tasteofthailand.org/wp-content/uploads/2019/03/patongko-1767418_1920.jpg"
+  },
+  {
+    "title": "Poh Pia",
+    "ingredients": "Flour wrappers + pork + glass noodles + vegetables",
+    "steps": "1. Fill wrappers with glass noodles, pork, and vegetables.\n2. Roll tightly and seal edges.\n3. Deep-fry until crisp and serve with chili sauce.",
+    "timetaken": "35 minutes",
+    "difficulty": "medium",
+    "description": "Poh Pia is a Thai crispy spring roll filled with pork, vegetables, and noodles. Its golden and delicious with chili sauce.",
+    "picture": "https://i0.wp.com/www.thefoodieluv.com/wp-content/uploads/2019/05/poh-pia-tod-on-lettuce.jpg?fit=2048%2C1365&ssl=1"
+  
+  },
+  {
+    "title": "Mata Ba",
+    "ingredients": "Flour + egg + vegetables + green onion",
+    "steps": "1. Mix flour and egg with chopped vegetables.\n2. Pour mixture onto hot pan and fry both sides.\n3. Serve with soy sauce or chili dip.",
+    "timetaken": "25 minutes",
+    "difficulty": "easy",
+    "description": "Mata Ba is a Thai vegetable pancake made from flour, egg, and mixed vegetables. Its crispy on the outside and soft inside.",
+    "picture": "https://www.jeffersonscher.com/ttw/wp-content/uploads/2017/01/TakuaPa-ThaiMuslimRestaurant-SavoryRotiMataba-5849_1600.jpg"
+
+  },
+  {
+    "title": "Ma Uan",
+    "ingredients": "Ripe Bananas + Coconut Milk + Sugar + Salt",
+    "steps": "1. Peel and slice bananas. 2. Boil coconut milk with sugar and salt. 3. Add bananas and simmer until tender.",
+    "timetaken": "15 minutes",
+    "difficulty": "Easy",
+    "description": "A sweet Thai dessert of bananas cooked in creamy coconut milk.\n",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeByljxQUWeKSPzIfztUISyZ08Xvfv1KON4w&s"
+   
+  },
+  {
+    "title": "Ma Ho",
+    "ingredients": "Flour+sugar+pineapple",
+    "steps": "1. Cook minced pork with palm sugar, garlic, and coriander until thick. 2. Spoon on pineapple pieces.",
+    "timetaken": "20 minutes",
+    "difficulty": "Medium",
+    "description": "A royal Thai appetizer with sweet-salty minced pork served on juicy pineapple.\n",
+    "picture": "https://1.bp.blogspot.com/_Liz-VpvKDvo/TLN0fNZf10I/AAAAAAAAFAw/ENxFH5hTzKg/s576/maho+cover.jpg"
+   
+  },
+  {
+    "title": "Miang Kham",
+    "ingredients": "Herbs+coconut+shrimp",
+    "steps": "1. Prepare all ingredients finely. 2. Wrap in betel leaves, drizzle sauce, and eat in one bite.",
+    "timetaken": "10 minutes",
+    "difficulty": "Easy\n",
+    "description": "A traditional bite-sized snack with a mix of sweet, salty, sour, and spicy flavors.\n",
+    "picture": "https://img.wongnai.com/p/1920x0/2020/06/26/1275f92d3d3d45d7a6fd72d075669899.jpg"
+   
+  },
+  {
+    "title": "La Tiang",
+    "ingredients": "Minced Pork + Egg + Onion + Garlic + Palm Sugar + Soy Sauce",
+    "steps": "1. Cook pork mixture. 2. Make thin egg net and wrap filling inside.",
+    "timetaken": "25 minutes",
+    "difficulty": "Medium",
+    "description": "A delicate royal snack with savory pork filling wrapped in a thin egg lattice.\n",
+    "picture": "https://img.wongnai.com/p/1920x0/2018/03/01/9afb38cd35634672bfe2e9f360e9c402.jpg"
+   
+  },
+  {
+    "title": "Roti",
+    "ingredients": "Flour+sugar+oil",
+    "steps": "1. Knead dough and rest. 2. Stretch and fry until golden. 3. Top with condensed milk.",
+    "timetaken": "20 minutes",
+    "difficulty": "Easy",
+    "description": "A sweet and crispy Thai street roti often served with condensed milk or banana.\n",
+    "picture": "https://www.taokaecafe.com/asp-bin/pic_taokae/sh27253852.jpg"
+   
+  },
+  {
+    "title": "Loba",
+    "ingredients": "Pork+herbs+spices",
+    "steps": "1. Clean and boil pork organs. 2. Fry with sauce mixture until flavorful.",
+    "timetaken": "40 minutes",
+    "difficulty": "Medium",
+    "description": "A Phuket-style dish made with spiced fried pork organs and vinegar sauce.",
+    "picture": "https://live.phuketindex.com/wp-content/uploads/2014/08/18.jpg"
+   
+  },
+  {
+    "title": "Vihok Long Rang",
+    "ingredients": "Fermented Fish + Garlic + Chili + Lime + Shallots",
+    "steps": "1. Mash fermented fish. 2. Mix with chili, lime, and shallots.",
+    "timetaken": "10 minutes",
+    "difficulty": "Medium",
+    "description": "A strong-flavored fermented fish dip eaten with fresh vegetables.\n",
+    "picture": "https://www.pholfoodmafia.com/wp-content/uploads/2021/07/6Lost-bird.jpg"
+   
+  },
+  {
+    "title": "Som Choon Yam",
+    "ingredients": "Herbs+fruit+fish sauce",
+    "steps": "1. Mix all ingredients with dressing. 2. Garnish with herbs.",
+    "timetaken": "15  minutes",
+    "difficulty": "Easy",
+    "description": "A refreshing Thai fruit salad with sweet and sour flavors.\n",
+    "picture": "https://f.ptcdn.info/391/075/000/r28w7no32Yr9mpf8nsI-o.jpg"
+   
+  },
+  {
+    "title": "Srong",
+    "ingredients": "Rice Flour + Coconut Milk + Sugar + Pandan Juice\n",
+    "steps": "1. Mix ingredients. 2. Steam until firm. 3. Cut into pieces and serve.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "A Thai dessert made from pandan-flavored rice flour and coconut milk.\n",
+    "picture": "https://img.wongnai.com/p/1920x0/2018/03/30/9c416bc8f7e0437caff5e0f34eefbe86.jpg"
+   
+  },
+  {
+    "title": "Sate",
+    "ingredients": "Meat+spices+peanut sauce",
+    "steps": "1. Marinate meat in coconut curry mix. 2. Grill and serve with peanut sauce.",
+    "timetaken": "25 minutes",
+    "difficulty": "Easy",
+    "description": "Thai-style satay skewers served with creamy peanut sauce.\n",
+    "picture": "https://www.thespruceeats.com/thmb/MmUpNHPVMiNwKpAfEy7W468t2kM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-satay-recipe-3217478-herp-01-0ed36da2f5ba4195a3f022de2b55e7d9.jpg"
+   
+  },
+  {
+    "title": "Saku",
+    "ingredients": "Tapioca Pearls + Minced Pork + Peanuts + Garlic + Coriander",
+    "steps": "1. Cook tapioca dough. 2. Fill with savory pork mixture. 3. Steam until translucent.",
+    "timetaken": "40 minutes",
+    "difficulty": "Hard",
+    "description": "A chewy and savory Thai snack of tapioca dumplings filled with seasoned pork.\n",
+    "picture": "https://i0.wp.com/chawjcreations.com/wp-content/uploads/2020/04/D2B02B7B-54B4-4D4F-9320-850AE9BD7844.jpg?resize=585%2C585&ssl=1"
+   
+  },
+  {
+    "title": "Moo Takro",
+    "ingredients": "Pork + Garlic + Pepper + Palm Sugar + Coconut Milk",
+    "steps": "1. Marinate pork. 2. Wrap in pandan leaves. 3. Grill until cooked.",
+    "timetaken": "25 minutes",
+    "difficulty": "Medium\n",
+    "description": "A grilled pork dish wrapped in fragrant pandan leaves.\n",
+    "picture": "https://i.ytimg.com/vi/CLT7BnoayIQ/sddefault.jpg"
+   
+  },
+  {
+    "title": "Moo Ping",
+    "ingredients": "Pork+soy sauce+herbs",
+    "steps": "1. Marinate pork. 2. Skewer and grill until caramelized.",
+    "timetaken": "20 minutes",
+    "difficulty": "Easy",
+    "description": "A famous Thai street food of grilled marinated pork skewers.\n",
+    "picture": "https://www.marionskitchen.com/wp-content/uploads/2023/05/Thai-Moo-Ping-14.jpg"
+   
+  },
+  {
+    "title": "Rum",
+    "ingredients": "Flour + Coconut Milk + Pandan + Sugar",
+    "steps": "1. Mix ingredients. 2. Steam in molds until cooked.\n",
+    "timetaken": "25 minutes",
+    "difficulty": "Medium",
+    "description": "A soft Thai dessert often served in small flower-shaped molds.\n",
+    "picture": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2022/09/02/8d55d279b1b040c9a6eb461659b81cc8_Restaurant_Secrets_How_Thailands_Best_Restaurants_Pair_Food_With_Thai_Spiced_Rum1.jpg"
+   
+  },
+  {
+    "title": "Hoi Tak",
+    "ingredients": "Mussels + Flour + Bean Sprouts + Egg + Garlic + Chili Sauce",
+    "steps": "1. Mix flour and mussels, fry in pan. 2. Add egg and bean sprouts.",
+    "timetaken": "20 minutes",
+    "difficulty": "Medium\n",
+    "description": "A crispy Thai mussel pancake served with chili sauce.\n",
+    "picture": "https://www.exoticfoodthailand.com/wp-content/uploads/2024/09/hoi-tod-recipe-1-scaled.jpg"
+   
+  },
+  {
+    "title": "Hoi Siab Jim Malakor",
+    "ingredients": "Shellfish + Papaya + Chili + Lime + Fish Sauce",
+    "steps": "1. Steam shellfish. 2. Mix with papaya and spicy dressing.",
+    "timetaken": "15 minutes",
+    "difficulty": "Medium",
+    "description": "A Thai-style shellfish salad with spicy papaya dressing.\n",
+    "picture": "https://mpics.mgronline.com/pics/Thumbnails/562000004998805.JPEG"
+   
+  },
+  {
+    "title": "A Pong",
+    "ingredients": "Rice Flour + Coconut Milk + Sugar + Yeast\n",
+    "steps": "1. Mix and ferment batter. 2. Pour into molds and cook until crisp.",
+    "timetaken": "30 minutes",
+    "difficulty": "Medium",
+    "description": "A thin, crispy Thai pancake with a soft center, popular in Phuket.\n",
+    "picture": "https://danielfooddiary.com/wp-content/uploads/2023/04/apongmae16.jpg"
+   
+  },
+  {
+    "title": "Otao",
+    "ingredients": "Seafood + Flour + Bean Sprouts + Egg + Garlic + Soy Sauce\n",
+    "steps": "1. Mix seafood with flour and fry. 2. Add egg and bean sprouts.",
+    "timetaken": "25 minutes",
+    "difficulty": "Medium",
+    "description": "A southern Thai-style seafood pancake similar to oyster omelet.\n",
+    "picture": "https://otaokitchen.com.au/files/thumb?w=367&h=204&src=/uploads//OTAOkitchen1222.jpg"
+   
+  },
+  {
+    "title": "Hoi Jo",
+    "ingredients": "Seafood + Flour + Bean Sprouts + Egg + Garlic + Soy Sauce\n",
+    "steps": "1. Mix filling and wrap in tofu skin. 2. Steam and deep fry.\n",
+    "timetaken": "35 minutes",
+    "difficulty": "Medium",
+    "description": "A crispy golden roll of crab and pork wrapped in tofu skin, served with plum sauce.",
+    "picture": "https://thumbs.dreamstime.com/b/deep-fried-crab-meat-roll-hoi-jo-thiland-chinese-asian-food-culture-thailand-137928632.jpg"
+   
+  }
+]
