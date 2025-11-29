@@ -21,7 +21,7 @@ Make sure Elasticsearch is running at http://localhost:9200.
 ### 2️⃣ Import Data into Elasticsearch
 \`\`\`bash
 cd scripts
-node import_data.js
+node import_to_elastic.js
 \`\`\`
 
 ### 3️⃣ Start Backend Server
